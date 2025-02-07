@@ -1,0 +1,3040 @@
+The Project Gutenberg EBook of Kasvikon oppisanoja, by Elias Lönnrot
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Kasvikon oppisanoja
+
+Author: Elias Lönnrot
+
+Release Date: March 29, 2017 [EBook #54457]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK KASVIKON OPPISANOJA ***
+
+
+
+
+Produced by Jari Koivisto
+
+
+
+
+
+
+
+
+KASVIKON OPPISANOJA
+
+Kirj.
+
+Elias Lönnrot
+
+
+
+SUOMI, tidskrift i fosterländska ämnen, 1858.
+
+Adertonde årgången
+
+
+
+
+
+Helsingfors,
+Finska Litteratur-Sällskapets tryckeri,
+1859.
+
+
+
+
+
+
+          Imprimatur: _L. Heimbürger_.
+
+
+
+
+
+
+Kuusi eri osaa on kasveissa merkittävä ja ne ovat: _juuri, varsi,
+lehdet, silmikot, kukka, hedelmä_. Itsekullaki näillä osilla on monta
+ominaisuutta, jotka tekevat ne eri kasveissa erilaisiksi. Semmoisten
+ominaisuutten selittämiseksi tarvitaan asianomaisia oppisanoja.
+
+
+Pintansa vuoksi on itsekuki osa:
+
+ _kierä_ (glaber, glatt), jolla ei ole karvoja.
+ _sileä_ (laevis, slät), kun ei ole kuoppia, uurtoja, naarmuja,
+     nyyliä eikä muita epätasaisuuksia.
+ _karkea_ (asper, skarp) pienillä kyhmyillä, nyhillä ja nystyröillä.
+ _karhea_ (scaber, sträf) melkein näkymättömillä kankeilla karvoilla.
+ _lienteä_ (pubescens, småluden) lyhyellä, hienolla, tiheällä karvalla.
+ _sametti-nukkainen_ (velutinus, sammetshårig) lienteällä, ulottavalla,
+     tav. erivärisellä karvalla.
+ _silkkimäinen_ (sericeus, silkesluden), pitkästä, hienosta,
+     pintamyötäisestä, kiiltävästä karvasta.
+ _höyteä_ (villosus, luden), pitkästä, laheasta, tiheästä karvasta.
+ _karvainen_ (pilosus, hårig), pehmeästä, ei ylen lyhyestä eikä
+     tiheästä karvasta.
+ _hatuinen_ (hirsutus, sträfluden), karkea-, pitkä- ja tihukarvainen.
+ _takkuinen_ (hispidus, sträfhårig), karkea-, paksu- ja harvakarvainen.
+ _kalsea_ (hirtus, kort sträfhårig), lyhytkarvaisempi edellistä.
+ _villainen_ (lanatus l. lanuginosus, ullhårig); _villaksi_ (lana l.
+     lanugo) sanotaan tiheätä, kiemuraista, vähän sekasortoista karvaa.
+ _nutturainen_ (floccosus, flockullig); _nutturoilla_ (flocci,
+     flockull) ymmärretään tukkupäistä villaa.
+ _vanukkeinen_ (tomentosus, filthårig); _vanuke_ (tomentum, filtludd)
+     s.o. vanuksissa oleva villa.
+ _seittinen l. lukinverkkoinen_ (araneosus l. arachnoideus,
+     spindelvässhårig); _seitiksi_ (aranea, spindelvässhår) sanotaan
+     pitkiä, hienoisia, hämähäkin verkon tapaan yhteen kutoutuneita
+     villakarvoja.
+ _ripsikarvainen l. ripsinen_ (ciliatus, hårbräddad); _ripset_
+     (cilia, kanthår) ovat yhtäpitkät karvat jonkun osan (esm. lehden)
+     reunassa.
+ _parrakas_ (barbatus, skäggig), kun karvat ovat vihkona tav. jonkun
+     osan päässä; semmoista vihkoa sanotaan _parraksi_ (barba, skägg).
+ _sukainen l. sukasinen_ (setosus, borstbärande); _su'iksi l.
+     sukasiksi_ (setae, borster) sanotaan kankeita, liereitä karvoja.
+ _nojosukainen_ (strigosus, plattborstig); _nojosukaset_ (strigae,
+     plattborster) ovat kankeita, lyhempiä, litteämäisiä,
+     alaspainuneita karvoja.
+ _koukkusukainen_ (setis hamosis, s. hamatis, s. aduncis, s. apice
+     uncinatis, krokborstig); _koukkusuat_ (hami l. unci, krokborster)
+     ovat koukeropäisiä sukakarvoja.
+ _väkäsukainen_ (glochidatus, hullingbärande); _väkäsu'illa_
+     (glochides, hullingborster) on päässä vastahakaisia karvoja.
+ _poltinsukainen l. polttava_ (urens, brännande) polttavilla
+     sukakarvoilla l. _poltinsu'illa_ (stimuli, brännborster)
+     varustettu. Poltinsu'illa on sisässä polttavaa nestettä.
+ _pistinsukainen_ (aciculosus); _pistinsuat_ (aciculi, nålborster)
+     tarttuvat koskiessa ihoon ja heltiävät juuriltansa.
+ _piikkisukainen_, piikillinen (aculeatus); _piikeiksi_ (aculi,
+     taggar) sanotaan pistimiä, jotka eivät lähde juuriltansa irti.
+ _pehmytpiikkinen l. hakarainen_ (muricatus, vektaggig) _hakaroilla
+     l. pehmeillä piikeillä_ (murices).
+ _kärheä l. takistava_ (adhaerens, snärjande) hienoilla koukeroilla
+     tahi väkäpäisillä piikeillä (ruohoissa).
+ Itsekuki piikki on myös joko _yhtenäinen_ (simplex, enkel) tahi
+     _jaettu_ (fissus, delad), _haarapäinen_ (furcatus, gaffellik),
+     _kaksi-, kolmihaarainen_ (bi-, trifurcatus), _suora_ (rectus,
+     rak), _kovera_ (incurvus, inböjd), latvaan päin väärä, _keikkeä_
+     (recurvus, tillbakaböjd), alaspäin väärä. Koveraa ja keikkeätä
+     sanotaan myös yhteisellä sanalla _koukeroiseksi_ (aduncus,
+     klolik).
+ _nyhäinen_, (verrucosus, vårtfull) on se pinta jolla on pieniä syyliä,
+     nystyröitä eli _nyhiä_ (verrucae).
+ _tahmea_ (viscosus, viscidus, klibbig) ja _jäläinen_ (glutinosus,
+     limaktig), kun pinnasta tihkuu iskuista, liimaista, tartuttavaista
+     nestettä.
+ _pisakarvainen_ (pilis glandulosis, glandelhårig) nesteisellä nypyllä
+     eli pisamalla karvan päässä.
+ _haarakarvainen_ (pilis furcatis, med gaffelformigt klufna hår).
+ _sulkakarvainen_ (p. plumosis, m. fjäderlika hår).
+ _tähtikarvainen_ (p. stellatis, m. stjernlikt delade hår).
+ _nivelkarvainen_ (p. septatis, m. ledade hår).
+ _kilseinen_ (p. lepidosis l. squamosis, m. fjällika hår).
+ _kehnäinen_ (farinosus, mjölig), kun pinnalla on vaksimaista ulos
+     pihkunutta ainetta.
+ _härmäinen_ (pruinosus, daggblå), kun sama aine on vaalean sinertävää.
+ _paikullinen_ (maculatus, fläckig), pilkullinen, tähneellinen,
+     kirpulainen.
+ _kaarnainen_ (suberosus, korkbarkig), pullokuorinen.
+ _juomuinen_ (striatus, strimmig), juovikas, juotikkoinen, viiruinen.
+ _pyköinen_ (rimosus, sprickfull), halkeimikas, siirtoileva, risoileva,
+     pakoileva, rakoinen.
+
+
+
+
+1) Juuri (radix, rot).
+
+
+ _juurenniska l. niska_ (collum radicis, rothals), juuren ja varren
+     raja eli välipaikka.
+ _lisäjuuri_ (radix adventitia, birot), maassa olevasta varresta
+     tahi oksasta lähtevä uusi juuri.
+ _ilmajuuri_ (r. aërea, luftrot), yläällä maasta olevasta kasviosasta
+     maahan lähtevä lisäjuuri.
+ _yksiperäinen_ (r. simplex, enkel), joka alkuansa niskasta lähtien
+     on yhtenä juurena, jos sitte alempana jakauisiki.
+ _moniperäinen_ (r. multiplex, sammansatt), joka heti alusta on
+     jakaunut useammaksi osaksi.
+ _haaraton_ (r. integra, odelad), yksiperäinen juuri, jolla ei ole
+     varsinaisia haaroja, vaan ainoastaan hapsia (fibrillae,
+     rottrådar).
+ _kokonainen_ (r. integerrima, helt och hållet odelad), yksiperäinen
+     haaraton sekä hapsiton juuri.
+ _haarova_ (r. ramosa, grenig), kun yksiperäinen emäjuuri jakauu
+     useammaksi haaraksi ja monasti haaratki uusiksi haaroiksi eli
+     haarukoiksi. Niin hyvin _haarat_ (rami, grenar) kuin _haarukat_
+     (ramuli, smågrenar) voivat olla hapsilla tahi _säikeillä_
+     (fibrae, rottågor) varustetut.
+ _emäjuuri_ (r. palaris, pålrot), haaraton pystöjuuri ja haarovanki
+     juuren pystöinen pääosa.
+ _yksivartinen_ (r. unicaulis, enstjelkig), emäjuuri, josta nousee
+     ainoastansa yksi varsi.
+ _monivartinen_ (r. multicaulis, mångstjelkig), josta lähtee
+     useampaa vartta.
+ _rihmamainen_ (r. filiformis, trådlik), rihman tahi hienomman
+     nauhan paksuinen haaraton juuri.
+ _suikea_ (r. fusiformis, tapplik), keskeltä paksumpi, pitkämäinen,
+     haaraton.
+ _suippeneva_ l. _suippo_ (r. conica kägellik), kun niskasta alkain
+     vähitellen hoikkenee päähän asti.
+ _naurismoinen_ (r. napiformis, roflik), niskasta pullakka, alempata
+     hoikalla hännällä eli navalla.
+ _hapsinen_ (r. fibrillosa l. capillacea, trådig), moniperäinen juuri
+     hapsimaisilla eri säikeillä.
+ _tupastava_ (r. caespitosa, tufvig), kun moniperäisen juuren
+     niskasilmikoista vuosittain kasvaa uusia varsia ja juuria, jotka
+     entisten kuihtuneitten kanssa kutouvat tuppaaksi eli mättääksi.
+ _kimputtu_ (r. fasciculata, hopknippad), kun muutamat säikeet heti
+     varren rajalla ovat myhkyröityneet yhteen tukkuun.
+ _vuosinainen_ (r. annua l. fugax, enårig), joka yhtenä vuotena
+     kasvattaa varren, kukat ja siemenet, sitte kuihtuu.
+ _kaksivuotinen_ (r. biennis l. vivax, tvåårig), joka edellisenä
+     vuotena tavallisesti ei tee kun varren, toisella kukkii ja
+     siementyy, sen jälkeen katoaa e.m. nauris.
+ _monivuotinen_ (r. perennis, mångårig) monta vuotta kestävä joko
+     vanhalla eli uudisvarrella, e.m. puut, koiruoho.
+ _mahero_ (r. perennans, öfvervintrande), joka kukkimisen ja
+     siementymisen jälkeen vielä jonkun vuoden pitkittää kasvuansa.
+ _rönsyävä_ (r. stolonifera, skottalstrande), kun juuren niskasta
+     kasvaa lehtivesoja eli rönsyjä (stolones, grenskott) varren
+     ympäri.
+ _suomukaulainen_ (r. stipata, fjällkransad), kun juuren niskan
+     ympäritse on suomumaisia hilseitä.
+ _karvaniskainen_ (r. comosa, topphårig), kun niskasta lähtee
+     karvoja tahi sukasia varren alapään ympärille.
+ _pystöinen l. pytöpystö_ (r. perpendicularis l. verticalis, lodrät),
+     suoraan alas maahan lähtevä haaraton juuri.
+ _alaskohtainen_ (r. descendens, nedstigande), pystöhaarainen juuri.
+ _uloskohtainen_ (r. horizontalis, vågrät), kun juurihaarat leviävät
+     ulospäin maata pitkin.
+ _kallas_ (r. obliqua, sned), joka on kallellaan.
+ _ulottava_ (r. procurrens, utlöpande), pitkä uloskohtainen juuri.
+ _tihkeä_ (r. compacta, fast), jonka sisus yltä ylensä on yhtä ainetta.
+ _möyheä_ (r. carnosa, kottig), pehmeä, tursea, lihamainen; e.m.
+     nauris.
+ _mehevä_ (r. succosa, saftig), tuore, nesteinen, mantoinen.
+ _maitias_ (r. lactescens, mjölksaftig), kun leikkaaman jäljestä
+     tihkuu valkoista tahi muun väristä nestettä.
+ _puutava_ (r. lignosa, trädartad), sitkeää, puuntapaista ainetta.
+ _mahkurainen_ (r. tuberosa, knölig), kun juuren haarat tahi säikeet
+     paikoittain ovat tursuneet pyöreiksi tahi muikulaisiksi kyhmyiksi.
+ _helminauhainen_ (r. moniliformis, perlbandslik), kun on joka haarassa
+     useampaa pientä mahkuraa eli nyylää toinen toisensa perästä.
+ _rippunyyläinen_ (r. filipendula, trådhängande), kun juuren nyylät eli
+     myhkyrät ovat harvemmassa, ikään kuin ripuksissa.
+ Muistutus. Muutamilla harvalukuisilla kasveilla on juurensa ei maassa,
+     vaan vedessä, ja monta kasvia löytyy, jotka ovat toisiin kasveihin
+     juurtuna. Näitä sanotaan _loiskasveiksi eli loisioiksi_ (plantae
+     parasiticae, parasiter). Ne ovat kahta laatua, toiset
+     _varsinaisia_, toiset _epäperäisiä loisioita_. Edelliset itävät
+     ja juurtuvat niillä kasveilla, joista sitte elävätki, jälkimäiset
+     nousevat ensin maasta ylös ja tarttuvat vasta myöhemmin pienillä
+     syylämäisillä juurilla kiinni muihin kasveihin, jonka jälkeen
+     niiden entinen juuri ja varsi kuoleuvat; elantonsa ne sitte saavat
+     niiltä toisilta kasveilta.
+
+
+
+
+2) Vartalo (cormus, stam).
+
+
+Juuresta nousevaa kasviosaa sanotaan yhteisellä nimellä vartaloksi,
+joka tavallisesti on maan päällä, mutta muutamissa kasveissa kokonansa
+tahi osiksi maan sisälläki kokoon kasvettuneena, käpristyneenä.
+Maan-alaista vartaloa ennen arveltiin ja vieläki monasti sanotaan
+juureksi, vaikka se ylöspäin kasvamallansa, hilseisillä lehtien
+jäännöksillä ja silmikoillansa selvästi osottaa itsensä samaa laatua
+olevan, kun muuki tavallinen varsi.
+
+Maanalaisia varsi-osia ovat _sipuli, mukula ja juurakko_.
+
+
+a. Sipulista.
+
+ _sipuli_ (bulbus, lök), lyhyt, käpertynyt varren-osa päälitysten
+     röyköttyneillä hilseisillä kuoruslehdeillä.
+ _sipulin sydän l. emys_ (discus bulbi, lecus, lökstock), joka
+     ylöspäin lähettää kukkaperän ja toisesta päästään työntää
+     juurihapsia maahan.
+ _hilseinen sipuli_ (b. tunicatus, hinnskalig), kun lehdet ovat
+     muodostuneet leveiksi monikertaisiksi kalvokääreiksi.
+ _verkkosuoninen_ (b. reticulatus, nätskalig), kun sipulihilseillä
+     on verkontapaisia ristisuonia.
+ _töyhtöinen_ (b. fimbriatus, fransig), kun vasta mainitut suonet
+     yhdistyvät hepsupääksi.
+ _liistoinen_ (b. foliosus, bladig), lehtisellä eli liistoisella,
+     ei kalvomaisella eikä limitetyllä kuorella.
+ _suomuinen_ (b. squamosus, fjällig), soukemmilla ja usein limikkäillä
+     kuoruslehdeillä.
+ _moniperäinen_ (b. compositus, sammansatt), jossa on monta kynttä
+     (bulbilli, smålökar) yhdessä.
+ _monikoloinen_ (b. nidulans, mångklyftig), kun kynsien ja sydänsipulin
+     välissä on pieniä kaaloja eli kolosia.
+ _pahkasipuli_ (bulbotuber, b. solidus, lökknöl, tät lök),
+     tihkeäaineinen sipuli, jossa sydän on voittopuolella.
+ _kalvosipuli_ (b. foliosus, bladig), jossa kuoruslehdet voittavat.
+ _sipulinen juuri_ (radix bulbosa, lökartad rot) y.k. sipuli.
+
+
+b. Mukulasta.
+
+ _mukula_ (tuber, stjelkknök) kyhmistynyt, täyteinen, turpea tahi
+     möyheämpi maanalainen varren-osa silmikoilla, joista sikiää
+     uusia kasveja. Kun mukulaa ennen luettiin juureksi, niin siitä
+     on juurelle seuraavia tunnussanoja saatu.
+ _mukulainen juuri_ (radix tuberosa, knölig) y.k. mukula.
+ _kämmekkäinen_ (r. palmata, handlik), sormentapaisesti haarova.
+ _kaksoismukulainen_ (r. didyma, tvåknölig), kun maanpäälisen varren
+     päässä on kaksi mukulaa vieretysten.
+ _nysteröinen_ (r. granulata, grynig), kun monta pientä mukulaa on
+     varren tyvessä yhteen nyhertynyt.
+
+
+c. Juurakosta.
+
+ _juurakko_ (rhizoma, rotstock), erästen kasvien tavallisesti
+     maanalainen varren-osa, joka ylipäästään vuosittain kasvaa ja
+     työntää uuden varren maan päälle entisen kuihtuneen sijasta.
+     Seki ennen juuren nimellä tuttu on saanut seuraavia erotussanoja.
+ _suikertava juuri_ (radix repens, krypande rot), maan pintaa myöten
+     venyvä eli luikertava.
+ _nivelikäs_ (r. articulata, ledad), kun vuosilisäin välit ovat
+     hoikempia.
+ _solmikas_ (r. nodosa, knutig), kun vuosilisät yhtyvät vahvemmilla
+     välipaikoilla.
+ _typäkkä_ (r. praemorsa l. succisa, afstympad), kun juurakko on
+     lyhyt ja ikään kuin katkaistu päästä.
+
+Erilaatuisia maasta yleneviä vartaloita ovat _runko, vali, korsi ja
+varsi_.
+
+ _runko t. puuvarsi_ (truncus, kronstam), tyvestä latvaan hoikkeneva
+     puinen vartalo erinäisellä sydän-, puu- ja kuorikerralla, haarova
+     ja oksiva (puilla ja pensailla).
+ _vali t. palmuvarsi_ (cauloma l. caudex, palmstam), tasapaksu,
+     puinen, tav. haaraton vartalo erottamattomalla sydän-, puu- ja
+     kuorikerralla. Valivartaloisia ovat palmut ja eräät muut puut.
+ _korsi t. heinävarsi_ (culmus, strå), heinäkasvien vartalo, pillikäs,
+     solmunivelinen, tuppilehtinen, yksinäinen, harv. haarova.
+     Vahvempaa sanotaan oljeksi.
+ _ruoko_ (calamus, säfstrå), erilaatuinen, nivelitön, hohka-aineinen,
+     ei pillikäs korsi.
+ _varsi_ (caulis, stjelk), semmoinen vartalo, joka ei kuulu yhteen
+     eikä toiseen edelliseen laatuun (ruohoilla, kukkasilla  j.n.e.)
+
+Vartalo eli varsi sanotaan olevan:
+
+ _ruohomainen_ (cormus l. caulis herbaceus), kun on pehmeä laatuansa
+     ja vuosittain lakastuva.
+ _puinen_ (c. lignosus, trädartad), kiinteä, monivuotinen, vasta
+     ylempätä haarova varsi _puilla_ (arbores, träd).
+ _pensainen_ (c. fruticosus, buskartad), kiinteä, monivuotinen,
+     juuresta alkain haarova varsi _pensailla_ (frutices, buskar).
+ _pensastava_ (c. suffruticosus, nästan buskartad), kun haarat
+     ainoastaan tyvestä ovat kiinteä-aineisia ja monivuotisia,
+     mutta ylempätä ruohomaisia, vuosittain lakastuvia,
+     _pensastoilla_ (suffrutices, småbuskar).
+ _täyteinen_ (c. solidus, tät), ylensä yhtä lomatonta ainetta.
+ _pillikäs_ (c. fistulosus, pipig) pitkin pituuttaan tyhjä sisältä.
+ _pullakka_ (c. inflatus, uppblåst), pillikäs ja pöhökäs.
+ _runsasytyinen l. ytevä_ (c. medullosus, märgfull), tavallista
+     vahvemmalla ytimellä.
+ _hohkamainen l. sienettävä_ (c. spongiosus, svampaktig), täynnä
+     sienemäistä solukkoa.
+ _mehinen_ (c. succulentus, vattenaktig), runsaalla vehriällä tahi
+     vedenkarvaisella nesteellä.
+ _maitias_, edell.
+ _hentoinen_ (c. laxus, svag) ja hoikka (c. debilis, spenslig),
+     niin nerkko ja kaihera, että tuskin pysyy pystössä.
+ _veltto l. hervoton_ (c. flaccidus, slak), joka ei kestä pystössä.
+ _tönkeä_ (c. rigidus, styf), joka taivuttaissa katkeaa.
+ _notkea_ (c. flexilis, böjlig), norea, katkeamatta taipuva.
+ _sitkeä_ (c. tenax, seg), notkistuva ja työläästi taittuva.
+ _hauras_ (c. fragilis, spröd), jäykkä ja helposti katkeava.
+ _solmikas l. solmunivelinen_ (c. nodosus l. nodoso-articulatus,
+     knutig), jolla on useampaa _solmuilla_ (nodi, knutar)
+     erotettua jaksoa eli _solmuväliä_ (internodium), e.m. oljella.
+ _nivelikäs l. hoikkanivelinen_ (c. articulatus l. constricto-
+     articulatus, ledad), kun varren erijaksoin välit ovat pehmeämpiä,
+     tav. sujuvia ja hoikempia.
+ _yhtenäinen_ (c. continuus l. contiguus, sammanhängande), jolla ei
+     ole eri jaksoja, solmuja tahi niveliä.
+ _solmuton l. nivelitön_ (c. enodis l. exarticulatus, oledad), y.k. ed.
+ _liereä l. pyöreä_ (c. teres, trind), yhtä pyöreä ilman särmittä,
+     kulmitta ja eri sivuitta.
+ _sivupuoli_ (c. semiteres, halftrind), puoli litteä, toinen pyöreä.
+ _litteämäinen_ (c. compressus, hoptryckt), littenevillä sivuilla,
+     särmitön.
+ _litteä_ (c. complanatus, platt), ohuempi edellistä.
+ _kaksiteräinen_ (c. anceps, tvåäggad), litteä kahdella terävällä
+     vastapäisellä syrjällä.
+ _kulmikas_ (c. angulatus, kantig), harjumaisesti kohonneilla sivuilla.
+ _nulokulmainen_ (c. obtusangulus, trubbkantig), tylppämäisillä
+     harjuilla.
+ _särmikäs_ (c. acutangulus, hvasskantig), terävillä kulmilla.
+ _ohutsärmäinen_ (c. acutissangulus, skarpkantig), vieläki
+     terävämpikulmainen.
+ _kolmi-, kuusi-, monikantainen_ (c. tri-, hexa-, polygonus, 3-, 6-,
+     flerkantig) 3:lla, 6:lla, monella kehkerällä kulmain välisellä
+     sivulla.
+ _kolmi- -- kymmentahkoinen_ (c. tri- -- decemqueter, 3--10-sidig),
+     niin monella tasaisella sivulla.
+ _kolmi-, kuusi-, moniteräinen_ (c. tri-, sex-, multangularis, 3-,
+     6-, flereggad), niin monella kouruisella sivulla ja ohuella
+     terämäisellä särmällä eli syrjällä.
+ _nauhamainen_ (c. fasciatus, bandformig), useammasta varresta
+     yhteen kasvettunut.
+ _lehtinen_ (c. foliatus, bladig).
+ _lehvakka l. lehtevä_ (c. foliosus), jolla on paljo lehtejä.
+ _lehdetön_ (c. aphyllus, bladlös).
+ _tupillinen l. tuppikäärinen_ (c. vaginatus, slidad), kun varren
+     ympäri on tuppimaisia, usein lehdestyviä kääreitä.
+ _suomuinen_ (c. squamosus, fjällig), suomumaisilla lehti-käperöillä
+     ympäri vartta.
+ _suomukkainen_ (c. squamulosus, småfjällig), y.k. ed. hyvin
+     pienoisilla suomuilla.
+ _paanuttu_ (c. imbricatus, täckt), päälitysten limitetyillä suomuilla
+     tahi lehdeillä niin peitetty, ettei itseä vartta näykkään.
+ _sulitettu_ (c. alatus, vingad), kun kaksi vastakkaista syrjää ovat
+     lehtimäisesti levenneitä.
+ _apulehtinen_ (c. stipulatus, försedd med stipler).
+ _apulehdetön_ (c. exstipulatus, stipellös).
+ _paljas_ (c. nudus, bar), jolla ei ole minkäänlaista lehdetystä.
+ _uurtoinen_ (c. sulcatus, fårad), pitkinäisillä syvemmillä juovilla
+     eli uurteilla.
+ _juomuinen, pyköinen, karvainen, höyteä, piikillinen, kierä,
+     kehnäinen, paikullinen, sileä, karkea, nyhäinen, kaarnainen_
+     y.m. ovat jo edellä mainitut.
+ _pysty_ (c. erectus, upprätt), suoraan ylös maasta nouseva.
+ _kallas_ (c. obliquus, sned), k. ed.
+ _suora_ (rectus, rak), mutkiton.
+ _piukka_ (c. strictus, upprätt och styf l. rak och styf),
+     pysty ja jäykkä tahi suora ja jäykkä.
+ _mutkiva_ (c. flexuosus, krokig), sinne tänne väärä.
+ _polviva_ (c. geniculatus, knäböjd), solmunivelinen varsi eri
+     suuntaisilla solmuväleillä.
+ _koheneva_ (c. adscendens, uppstigande), tyvipuoli vartta maassa
+     tahi kallellaan, latvapuoli pysty.
+ _kaareva_ (c. incurvatus, uppböjd), kaaressa ylöspäin.
+ _lenko_ (c. declinatus, nedböjd), tyveltä pystössä, latvempata
+     alaskaareva.
+ _nuokkuva_ (c. nutans, lutande), pysty varsi pää kallellaan.
+ _nuokahtava_ (c. cernuus), vähemmin kallellaan päästä.
+ _rippuva_ (c. pendulus, hängande), toisiin kasveihin, kalliovieriin
+     tahi muihin aineisiin juurtunut ja varrellaan alas roikottava.
+ _rento_ (c. procumbens, nedliggande), maassa makaava ilman juuria
+     tekemättä.
+ _lama_ (c. prostratus l. humifusus), haaroinensaki maassa.
+ _laiehtiva_ (c. fluitans, flytande), veden kalvolla makaava.
+ _suikertava_ (c. repens, krypande), juuria maahan lähettävä rento
+     varsi.
+ _longertava_ (c. sarmentosus, refvig), kun varsi pitemmillä väleillä
+     lähettää juuria maahan ja välijaksot eivät makaa aivan maassa
+     kiinni.
+ _loikertava_ (c. reptans), y.k. ed.
+ _kiiveksivä l. juurrehtiva_ (c. radicans, rotslående), kun varsi
+     pienoisilla ilmajuurilla tarttuu muihin aineisiin ja niitä myöten
+     kohotteleikse, e.m. verhamo.
+ _väänneliäs_ (c. scandens, klängande), samalla tavalla muiden kasvien
+     tahi ainetten varassa nouseva ja niihin _kärheillään_ (cirrhi)
+     tahi hakaroillaan takistuva.
+ _köynneliäs_ (c. volubilis, slingrande), kun varsi kasvaissaan kiertyy
+     jonkun muun kasvin tahi aineen ympäri joko _vastoin päivää_
+     (c. volubilis dextrorsum, från venster åt höger) e.m. humala, tahi
+     _myöten päivää_ (c. vol. sinistrorsum, från höger åt venster)
+     e.m. salkopapu.
+
+ _ihkayhtenäinen_ (c. simplicissimus, helt och hållet enkel), jolla
+     ei ole varsi- eikä kukkahaarukoita.
+ _yhtenäinen_ (c. simplex, enkel), varsi haaraton, kukat haarovia.
+ _haarova_ (c. ramosus, grenig), haarallinen, haarakas.
+ _monihaarainen_ (c. ramosissimus, mycket grenig), kun on paljo ja
+     uudelleen haarottavia haaroja.
+ _yltävä l. läpituntuva_ (c. excurrens l. integer, fortlöpande),
+     jonka pitkin pituuttaan aina latvaan asti voipi selvästi erottaa
+     haaroista, e.m. havupuissa.
+ _haihtuva l. sortuva_ (c. deliquescens, söndergrenad), kun emävarsi
+     sortuu eli jakauu haaroiksi, joista sitä ei taida erottaa,
+     e.m. lehtipuissa.
+ _latvavarainen_ (c. prolifer, toppalstrande), kun uusia haaroja ja
+     lehtejä ei lähde varren sivuilta, vaan ainoastansa latvasta.
+ _kaksitteleva_ (c. dichotomus, klynnedeld), kun varsi jakauu kahdeksi
+     haaraksi ja haarat eteenpäin yhä kahdeksi.
+ _kolmitteleva_ (c. trichotomus, upprepadt tregrenig), kun samalla
+     tavalla kerroten jakauu kolmeksi haaraksi.
+ _ristihaarainen_ (c. brachiatus, armgrenig), haarat paritellen
+     vastakkaisia ja likimäiset haaraparit ristissä toinen toisensa
+     kanssa.
+ _pitkittävä l. rajaton_ (c. indeterminatus, obegränsad), kun varsi
+     sivulta kukkiessaan latvasta pitkittää kasvuansa.
+ _rajattu l. rajauva_ (c. determinatus, begränsad), latvasta kukkiva
+     ja siihen kasvunsa päättävä varsi.
+
+Erittäin merkittäviä varressa ovat _ydin_ (medulla, märg), _puuaine_
+(lignum, ved), _kuori_ (cortex, bark). Puuaineessa on kaksi erikertaa,
+sisämäinen kovempi _sydänpuu_ (duramen, kärnved) ja ulkomainen
+pehmeämpi ja tavallisesti valkeampi _manto eli pintapuu_ (alburnum,
+splint l. hvitved).
+
+Kuoressa samoin on useampaa erikertaa, ensin puuta vasten _nila l.
+niini_ (liber, bast), sitte _välikuori_ (periderma, barkhud) ja
+päälimmäisnä _närvi l. ketto_ (epidermis, öfverhud).
+
+Varteen eli vartaloon kuuluvia ovat myös _haarat_ (rami, grenar) ja
+_oksat eli haarukat_ (ramuli, qvistar l. smågrenar), _lehdet_ (folia,
+blad), _perälehdet_ (bracteae, skärmblad l. blomskärmar), _apulehdet_
+(stipulae, stipler), _silmät eli silmikot_ (gemmae, knoppar), (kukka
+flos, blomma), _siittimet_ (partes fructificationis, fröredningsdelar)
+ja _hedelmä_ (fructus, frukt).
+
+
+
+
+Haaroista.
+
+
+ _Vastakkaisia_ (rami oppositi, motsatta), ovat haarat, kun ovat
+     vastapäätä, toinen toisella, toinen toisella puolella vartta.
+ _vuorottaisia_ (r. alterni, skiftevisa), kun lähtevät varren ympäriltä
+     toinen toistansa ylempätä.
+ _ristikkäisiä_ (r. brachiati, armgreniga), ristittäin vastakkaisia.
+ _kahtaallisia l. kahdappäisiä_ (r. distichi, tvåsidiga), juurillansa
+     ympäri vartta, mutta päillänsä ei kun kahta suuntaa.
+ _härkiläisiä_ (r. verticillati, kranssittande), kun kolme tahi
+     useampaa haaraa lähtee yhtä korkealta kuki suunnallensa.
+ _erinäisiä_ (r. sparsi, strödda l. aflägsnade), kun haarat lähtevät
+     sieltä täältä kierteisesti ympäri vartta.
+ _harvinaisia_ (r. remoti, åtskiljda), kauvempana toisistaan.
+ _lähinäisiä_ (r. conferti l. approximati, tättsittande), tiheässä
+     ja liketysten.
+ _sisäpäisiä_ (r. coarctati, hopträngda), kun latvoillaan kääntyvät
+     vartta vasten.
+ _tasalatvaisia_ (r. fastigiati, jemntoppade), kun eri paikoista
+     lähteneitten haarain latvat ovat yhtä korkealla, jolloin myös
+     itseä vartta sanotaan _tasalatvaiseksi_.
+ _vitsamaisia_ (r. virgati, vidjelika), kun ovat hoikkia, pitkiä ja
+     melkein haarattomia.
+ _pystönäisiä_ (r. erecti, upprätta), kun nousevat ylös melkein vartta
+     seuraten.
+ _ulostyvisiä_ (r. parallelo-patentes, frånstående), alusta ulospäisiä,
+     sitte pystönäisiä.
+ _varsimyötäisiä_ (r. adpressi, tilltryckta), tyvestä alkain vartta
+     myöten kasvavia.
+ _siirottavia_ (r. patentes, utstående), ylöspäisiä soukalla
+     varsihangalla eli kulmalla.
+ _ulospäisiä_ (r. divergentes l. horizontales, utböjda), kun seisoa
+     sojottavat suoraan varresta ulos. Toisia latinalaisia nimityksiä
+     semmoisille haaroille ovat divaricati ja patentissimi.
+ _leveneviä l. ulottavia_ (r. diffusi, utspridda), y.k. ed. tahi
+     vähän ylöspäisiä.
+ _alaskaarevia_ (r. deflexi, nedböjda), kaaressa alaspäin.
+ _alaspäisiä_ (r. reflexi l. refracti, tillbakaböjda), kun enemmin
+     eli vähemmin kääntyvät alaspäin vartta vasten.
+ _taaspäisiä_ (r. retroflexi, återböjda), mutkitellen alaspäin
+     kääntyneitä.
+ _rippuvia_ (r. penduli, hängande), kun ovat velttoja ja suoraan
+     alaspäin.
+ _haarahanka_ (ala, grenvinkel l. grenveck) on haaran ja varren
+     välikulma.
+ _haarahankainen_ (alaris), haarahangassa oleva.
+
+Erilaatuisia haaroja ovat:
+
+ _lonkero_ (sarmentum, örtrefva), aluslehden hangasta lähtevä, maata
+     myöten kulkeva, lehdetön, usein koukeroinen hyötöhaara, joka
+     päästänsä kasvattaa lehtejä ja uusia juuria.
+ _rönsy_ (stolo l. flagellum, grenskott), aluslehden hangasta lähtevä,
+     maasta kohoamaton lehdekäs haara, joka alapuoleltansa paikoittain
+     työntää juuria maahan ja päästänsä lehtejä, välistä kukkiaki.
+ _kasvanto_ (turio, årsskott), itsekunki haaran tahi varren vuotuinen
+     lisä.
+ _ora_ (spina, torn), kesken kasvettunut jäykkä oksan käperö kovalla,
+     pistävällä päällä. Jos on vaan yksi kärki oralla, sanotaan sitä
+     _yhtenäiseksi l. yksikärkiseksi_ (sp. simplex, enkel), muuten
+     haarapäiseksi (sp. divisa, delad). Orilla varustettua vartta
+     sanotaan _oraiseksi_ (c. spinosus, tornbärande), ja _varulliseksi_
+     (armatus, beväpnad) mainitaan yhteisesti kasviosaa, jolla on oria,
+     piikkejä tahi poltinsukia, _varuttomaksi_ (inermis, obeväpnad)
+     sitä, jolla niitä ei ole. Orat samoin kuin muutki oksat lähtevät
+     varren puuaineesta, _piikit_ (aculei, taggar) ainoastaan kuoresta.
+ _kärhi_ (cirrhus, klänge), rihmamainen ja usein kierteinen oksan
+     pidennys, jolla kasvi tarttuu muihin aineisiin. Vartta, jolla on
+     semmoisia, sanotaan _kärhiseksi_ (cirrhosus, klängegrenig).
+     Toisinaan kärhet lähtevät lehden ruodista tahi keskisuonesta,
+     välistä kukkaperästäki. Kärhet ovat tavallisesti yhtenäisiä,
+     välistä _haaroviaki_ (c. ramosi, greniga).
+
+
+
+
+Lehdeistä.
+
+
+ _sirkkalehdet_ (cotyledones, hjertblad), ensimmäiset itulehdet.
+ _aluslehdet_ (folia radicalia, rotblad), jotka lähtevät varren
+     alimmaisesta päästä juuren niskassa.
+ _varsilehdet_ (f. caulina, stjelkblad), varresta lähtevät.
+ _haaralehdet, oksalehdet_ (f. ramea, grenblad), haaroista tahi
+     oksista.
+ _kukkalehdet_ (f. floralia, blomblad), jotka ovat lähellä kukkia.
+     Vähän erilaatuisia ovat perälehdet.
+ _lehtihanka_ (axillum, bladveck), lehden ja varren välikulma.
+ _lehtihankainen_ (axillaris), lehtihangassa oleva.
+ _lehtiruoti l. ruoti_ (petiolus, bladskaft), se osa, joka yhdistää
+     emälehden ja varren.
+ _emälehti_ (lamina l. limbus, bladskifva), lehden lapa eli levy.
+ _lehden päälystä_ (pagina superior, öfra sida), se puoli, joka
+     varsimyötäisissä lehdeissä on vartta vasten.
+ _lehden alusta_ (pagina inferior, undra sida), joka on vastapäin
+     päälystää, nurja puoli.
+ _lehden kanta_ (basis folii, bladbas), emälehden varren tahi ruodin
+     puolinen laita.
+ _lehden pää_ (apex folii, bladspets), kantaa vastapäinen laita.
+ _lehden laita_ (margo, bladkant), ympärys, reuna, ääri eli syrjä.
+
+Tavallisia ruodin erotuksia ovat _liereä, sivupuoli, kolmikulmainen,
+litteä, litteähkä, pullakka_ j.n.e.
+
+ _kupuva_ (petiolus ventricosus, bukig), keskeltä tursea eli pöyheä.
+ _tuppimainen_ (p. vaginans, slidformig), kun ruoti on varren puolelta
+     laajennut ja tupenmoisesti varren ympäri kääriytynyt.
+ _sulitettu_ (p. alatus, vingad), kahdella lehtimäisellä syrjällä.
+ _kärhikäs_ (p. cirrhiferus, klängebärande), kärheksi jatkuva.
+ _lehdentö_ (phyllodium, bladlikt bladskaft), lehtimäisesti laajennut
+     ruoti puuttuvalla emälehdellä.
+ _ruodikas_ (fol. petiolatum, skaftadt blad), jolla on ruoti.
+ _Tuppimaisilla lehdeillä_ (folia vaginantia, slidomfattande blad) on
+     _tuppi_ (vagina, slida), joko _halkinainen_ (v. fissa l. divisa,
+     öppen l. klufven), taikka kokonainen (v. integra l. indivisa,
+     hel). Jos tuppi muuttuu lehdeksi, sanotaan sitä _lehdestäväksi_
+     (v. foliifera, bladbärande), muuten _lehdestymättömäksi_
+     (v. aphylla, bladlös).
+ _ruoditon_ (fol. sessile, oskaftad), kun emälehti on suorastaan
+     varressa kiinni.
+ _johteinen_ (f. decurrens, nedlöpande), kun lehti kannastaan jatkuu
+     ja juoksee vartta myöten alas seuraavaan lehteen asti.
+ _puolijohteinen_ (f. semidecurrens, halftnedlöpande), kun juoksee
+     vaan puoliväliin.
+ _sepokantainen_ (f. amplexicaule l. amplectens, stjelkomfattande),
+     kun lehden kanta kiertää varren ympäri.
+ _puolisepoinen_ (f. semiamplexicaule, halftomfattande), kun kiertää
+     vaan puolen vartta.
+ _läpikantainen_ (f. perfoliatum, genomborrad), kun varsi käypi lehden
+     kannan läpi.
+ _yhtynyt_ (f. connatum, sammanvext); yhtyneiksi sanotaan kahta
+     vastakkaista lehteä, joiden kannat ovat niin yhteen kasvaneet,
+     että näyttää kun olisi vaan yksi varren keskeä lävistämä lehti.
+ _silposuoninen_ (f. simplicinerve l. nervosum, enkelt nervig), jonka
+     suonet ei haarau.
+ _haarasuoninen_ (f. ramosinerve l. venosum, grenigt nervig), kun
+     suonet tekevät haaroja.
+ _verkkosuoninen_ (f. reticulato-venosum, nätådrig), kun suonihaarat
+     juoksevat ristin rastin toisiinsa yhtyen.
+ _tasasuoninen_ (f. rectinerve, rätnervig), kun silposuonisen lehden
+     suonet juoksevat suoraan ja tasasuuntaisesti pitkin lehteä.
+ _kaarisuoninen_ (f. converginerve, bågnervig), kun juoksevat
+     kaarevasti.
+ _tukkusuoninen_ (f. diverginerve, divergerande nervig), kun useampia
+     silposuonia on tyvestä yhdessä tukussa, josta ne sitte vähitellen
+     erouvat, juosten kuki tasasuuntaisesti lehden laitaan.
+ _sulkasuoninen_ (f. penni- l. pinninerve, fjädernervig), kun
+     keskisuonesta lähtee kummallenki puolelle sulantapaisesti
+     haarauneita eli sulkamaisia suonia (nervi pennati l. pinnati,
+     fjäderlika nerver).
+ _kourasuoninen_ (f. palminerve, handnervig), kun lehtikannasta lähtee
+     suonia ympärinsä lehden laitaan. Itsiä suonia sanotaan tässä
+     tilassa _kouramaisiksi_ (nervi palmati, handlika), lehti
+     tavallisesti on pyöreähkä.
+ _kilpisuoninen_ (f. pelti- l. stellinerve, sköld- l. stjernnervig),
+     kun lähtee poikkimaisesti ruotia vasten säteemäisiä suonia yltä
+     ympärinsä. Ruoti näissä ei ole lehden laidassa, vaan keskellä
+     emälehden alla puolen, kuin varsi männässä. Tämmöistä lehteä
+     sanotaan myös _kilpimäiseksi_ (f. peltatum, sköldlik).
+ _kantasuoninen_ (f. pedatinerve, fotnervig), kun lehtikannasta lähtee
+     kaksi hyvin haarottavaa suonta ja niistä uusia suonihaarukoita
+     lehden päähän. Toisinaan on niiden välissä kolmas pienempi
+     emähaara.
+ _yksivarainen_ (f. simplex, enkel), on lehti, jos ruodilla on vaan
+     yksi lehti.
+ _monipuolinen l. liittoinen_ (f. compositum, sammansatt), kun ruodilla
+     on monta pientä erinäistä lehteä eli _lehdykkää_ (foliolum,
+     småblad), jotka ovat taikka ruodittomasti taikka eri ruodeillansa
+     eli _ruodukoilla_ (petioluli l. petioli partiales, småbladskaft)
+     _emäruodissa_ (petiolus communis l. rachis folii, allmänt
+     bladskaft) kiinni.
+ _ehytlaitainen_ (f. integerrimum, helbräddad), kun lehden laidassa
+     ei ole mitään lovia, pykäliä tahi muita koloja.
+ _kokonainen_ (f. integrum l. indivisum), kun on vaan pienempiä
+     koloja laidassa.
+ _lohkottu_ (f. divisum, delad), syvemmillä koloilla.
+ _kololaitainen_ (f. incisum, inskuren), kun kolot (incisurae,
+     inskärningar) eivät ulotu puolitiehenkään lehden keskustaa.
+ _halkoinen_ (f. fissum, klufven), kun kolot ulottuvat puolitiehen
+     keskilehteä taikka runsaamminki ja ovat yhtä leveitä eli
+     suoralaitaisia.
+ _kaksi-, kolmi-, neli-, viisi- ... monihalkoinen_ (f. bi-, tri-,
+     quadri-, quinque- ... multifidum, två-, tre-, fyra-, fem- ...
+     mångklufven).
+ _liuskainen_ (f. lobatum, flikig), puolitiehen lehden keskipaikkaa
+     ulottuvilla koloilla, ja niiden välissä kehkerälaitaisilla
+     liuskoilla (lobi, flikar).
+ _kaksi-, kolmi-, neli- ... moniliuskainen_ (f. bi-, tri-, quadri- ...
+multilobum, två-, tre-, fyra- ... mångflikig).
+ _mutkalaitainen_ (f. sinuatum, bugtig), kaarteisilla tuskin
+     puolitiehen lehden keskustaa ulottuvilla mutkilla (sinus, bugter).
+ _lohkoinen_ (f. partitum, delad), melkein lehden keskipaikoille
+     ulottuvilla koloilla.
+ _kaksi-, kolmi-, neli-, viisi- ... monilohkoinen_ (f. bi-, tri-,
+     quadri-, quinque- ... multipartitum, tu-, tre-, fyr-, fem- ...
+     mångdelad).
+ _jakoinen_ (f. sectum, helt och hållet delad), kun kolot ulottuvat
+     lehden keski- tahi kantasuoneen asti.
+ _parihalkoinen_ (f. pinnatifidum, parklufven l. pinntandad), kun
+     halkoisen lehden liuskat ovat vastakkaisia.
+ _kahdesti parihalkoinen_ (f. bipinnatifidum, dubbelt parklufven l.
+     dubbelt pinntandad), kun parihalkoisen lehden liuskatkin ovat
+     parihalkoisia.
+ _kolmesti parihalkoinen_ (f. tripinnatifidum, tredubbelt parklufven
+     l. tredubbelt pinntandad), kun kahdesti parihalkoisen lehden
+     liuskat vielä uudelleen ovat parihalkoisia.
+ _parikaarteinen l. lyyrymäinen_ (f. lyratum, lyrformig), kun
+     tyvipuolella on vastakkaisin muutamia syviä kaarteita
+     pyöreämäisillä väliliuskoilla ja latvapuoli lehteä tavallisesti
+     yhtenä isompana pöyreähkänä liuskana.
+ _taasliuskainen_ (f. runcinatum, nedåt parflikig, rundtaggad),
+     kun molemmin puolin keskisuonta on isompia kaarevia tahi
+     suoralaitaisia taaspäin kääntyneitä kairamaisia liuskoja
+     vastakkaisin.
+ _parilohkoinen_ (f. pinnatipartitum, pardelad), lohkoinen lehti
+     vastapäisillä liuskoilla.
+ _kampalaitainen_ (f. pectinatum, kamflikad), parilohkoinen lehti
+     pienillä tasasoukilla liuskoilla.
+ _parijakoinen_ (f. pinnatisectum = f. pinnatum, parbladigt delad),
+     kun lehden vastakkaiset liuskat ovat aivan erillään toisistaan
+     ja ainoastaan keskisuonessa kiinni.
+ _epätasaisesti parijakoinen_ (f. interrupte pinnatisectum, olikparigt
+     delad), kun lehdykät eli oikeammin liuskat ovat eri suuria.
+ _epäliuskainen_ (f. laciniatum, ojemnt inskuren), sulkasuoninen lehti
+     useammalla eri suurella liuskalla yhtä suuntausta emälehden
+     kanssa.
+ _resaliuskainen_ (f. lacerum, fargad), epäliuskainen lehti
+     repaleisilla liuskoilla.
+ _siirottavasti parihalkoinen_ (f. squarroso-pinnatifidum,
+     tillbakaspärradt parklufven), kun parihalkoisen lehden liuskat
+     eivät ole yhtä linjausta eli suuntausta emälehden kanssa.
+ _kouramainen_ (f. palmatum = f. palmatipartitum, handlik),
+     kourasuoninen lehti koloilla suonten välissä.
+ _kourahalkoinen_ (f. palmatifidum = f. tri-, quadri-, quinque-,
+     multifidum, handklufven), kourasuoninen halkoinen lehti.
+ _kouraliuskainen_ (f. palmatilobum = f. tri-, quadri-, quinque-,
+     multilobum, handflikig), kourasuoninen liuskainen lehti.
+ _kouralohkoinen_ (f. palmatipartitum = f. palmatum, handdelad),
+     kouramainen eli kourasuoninen lohkoinen lehti.
+ _kourajakoinen_ (f. palmatisectum = f. digitatum, fingerlik),
+     kourasuoninen jakoinen lehti k. sormijakoinen.
+ _tähtiliuskainen_ (f. stellilobum l. stellato-laciniatum, stjerndelt),
+     kilpisuoninen lehti suonivälisillä koloilla.
+ _kantamainen_ (f. pedatum = f. pedatisectum, fotlik), kantasuoninen
+     lohkottu lehti.
+ _kantahalkoinen_ (f. pedatifidum = f. pedatum, fotklufven),
+     kantasuoninen halkoinen lehti.
+ _kantalohkoinen_ (f. pedatipartitum = f. pedatum, fotdelad),
+     kantasuoninen lohkoinen lehti.
+ _kantajakoinen_ (f. pedatisectum = f. pedatum, fotlikt delad),
+     kantasuoninen jakoinen lehti.
+ _yhteisruotinen_ (f. simpliciter compositum, enkelt sammansatt), kun
+     haarattomalla emäruodilla on useampia nivelkantaisia lehdyköitä.
+ _haararuotinen_ (f. decompositum, dubbelt sammansatt), kun varresta
+     lähtevä tyviruoti (petiolus primarius, allmänt bladskaft) jakauu
+     ruotihaaroiksi (petioli secundarii, bladskaft av andra ordningen),
+     joilla kullakin on nivelkantaisia lehdyköitä.
+ _haarukkaruotinen_ (f. supradecompositum, mer än dubbelt sammansatt),
+     kun haararuotisen lehden ruotihaarat uudelleen jakauvat
+     ruotihaarukoiksi (petioli tertiarii, bladskaft af tredje
+     ordningen), joihin lehdykät kantanivelillänsä ovat kiinnitetyt.
+ _parijakoinen_, _parittainen l. parilehtinen_ (f. pinnatum, parbladig,
+     enkelt sammansatt fjädernervig), kun molemmin puolin emäruotia on
+     lehdyköitä.
+ _vastaisparinen_ (f. opposite pinnatum, motsatt parbladig),
+     vastakkaisilla lehdyköillä, joista kumpaakin erittäin sanotaan
+     kaksoiseksi (pinna, parblad) ja molempia yhteisesti lehtipariksi
+     (jugum, bladpar).
+ _yksiparinen_ (f. unijugum l. conjugatum, enparig), vastaparinen lehti
+     yhdellä lehtiparilla.
+ _kaksi-, kolmi-, neli-, viisi-, moniparinen_ (f. bi-, tri-, quadri-,
+     quinque-, multijugum, två-, tre-, fyr-, fem-, mångparig),
+     vastaparinen lehti 2:lla, 3:lla, 4:llä, 5:llä, monella
+     lehtiparilla.
+ _vuoroparinen_ (f. alterne pinnatum, skiftevis parbladig),
+     vuorottelevilla lehdyköillä.
+ _tasaparinen_ (f. paripinnatum l. abrupte pinnatum, parbladig utan
+     uddblad), kun parijakoisen lehden päässä ei ole yksinäistä
+     lehteä l. _päätöä_ (f. impar l. terminale, uddblad). Usein päätyy
+     emäruoti kuitenki kärhellä.
+ _päätöparinen_ (f. impari-pinnatum l. pinnatum cum impari, parbladig
+     med uddblad), kun parijakoisen lehden päässä on yksinäinen
+     päätölehti.
+ _mukaparinen_ (f. aequaliter pinnatum, jemnt parbladig), kun kaikki
+     lehtiparit ovat yhtä suuria.
+ _voittoparinen_ (f. crescenti-pinnatum, tilltagande parbladig), kun
+     lehdykät isonevat latvaan päin.
+ _isopäätöisesti parijakoinen l. isopäätöinen_ (f. lyrato-pinnatum,
+     lyrformigt parbladig), kun päätölehti on muita isompi.
+ _sortoparinen_ (f. decrescenti-pinnatum, aftagande parbladig), kun
+     lehdykät pienenevät latvemmuuttansa.
+ _toisparinen_ (f. bipinnatum, dubbelt parbladig l. dubbelt sammansatt
+     fjädernervig), kun yhteisruodista pitkin pituuttaan lähtee
+     parijakoisia lehtejä.
+ _kolmisparinen_ (f. tripinnatum, tredubbelt parbladig l. tredubbelt
+     sammansatt fjädernervig), kun yhteisruodilla on pitkin pituuttaan
+     toisparisia lehtihaaroja.
+ _sormijakoinen l. kourajakoinen_ (f. digitatum l. palmatisectum,
+     fingerlik), kun ruodin päästä lähtee useampia lehdyköitä
+     nolokulmaisesti ruotia vasten.
+ _kaksisorminen_ (f. binatum l. geminatum, tvåfingrad); sekauupi usein
+     yksiparisen lehden kanssa.
+ _kolmi-, neli-, viisi-, seitsensorminen_ (f. ternatum, quaternatum,
+     quinatum, septenatum, tre-, fyr-, fem-, sjufingrad).
+ _toissorminen_ (f. bidigitatum, dubbelt fingerlik, dubbelt sammansatt
+     handnervig), kun sormijakoisen emäruodin kullaki haaralla on
+     sormijakoisia lehdyköitä.
+ _toistain kaksisorminen_ (f. bigeminatum l. geminato-binatum,
+     dubbelt tvåfingrad), emävarsi kaksijakoinen ja kumpiki haara
+     kaksisorminen.
+ _toistain kolmisorminen_ (f. biternatum l. duplicato-ternatum, dubbelt
+     trefingrad), emävarsi kolmijakoinen ja kuki haara kolmisorminen.
+ _kaksisormisesti parijakoinen_ (f. binato- l. geminato-pinnatum,
+     tvåfingradt parbladig), kun emäruodin päästä lähtee kaksi
+     parijakoista lehteä.
+ _kolmi-, nelisormisesti parijakoinen_ (f. ternato-, quaternato-
+     pinnatum, trefingradt, fyrfingradt parbladig), kun on kolme,
+     neljä parijakoista lehteä emäruodin päässä.
+ _kolmissorminen_ (f. tridigitatum, tredubbelt fingerlik, flerdubbelt
+     sammansatt handnervig), kun sormijakoisen emäruodin kuki haara
+     on toissorminen.
+ _kolmesti kaksisorminen_ (f. tri- l. tergeminatum, tergeminum l.
+     triplicato-geminatum, tredubbelt tvåfingrad), kun parijakoisen
+     emäruodin jakauksessa on kaksi lehdykkää ja sitte kumpiki haara
+     kaksisorminen.
+ _kolmesti kolmisorminen_ (f. triternatum l. triplicato-ternatum,
+     tredubbelt trefingrad), kun kolmijakoisen emäruodin kuki haara
+     on toistain kolmisorminen.
+ _ratasmainen_ (f. rotatum l. peltato-digitatum, hjullik, hjulformig,
+     sköldformigt fingerlik), kun emäruodin päästä lähtee useampia
+     lehdyköitä kuin rattaan värttinät yltä ympärinsä. Ratasmaisia
+     lehtiä ei aina ole tarkoin erotettu viisi- ja seitsensormisista.
+     Välistä on niitä myös nimitetty sarjamaisiksi (f. umbellatum,
+     flocklik) ja _tähtijakoisiksi_ (f. stellatum, stjerndelt).
+ _vastakkaisia, vuorottaisia, erinäisiä, harvinaisia, lähinäisiä,
+     kahdappäisiä l. kahtaallisia, pystönäisiä, varsimyötäisiä,
+     siirottavia, alaskaarevia ja alaspäisiä_ ovat lehdet sen
+     selityksen mukaan, ku niistä sanoista jo ennen on annettu.
+ _ristikkäisiä_ (f. decussata, korsvis motsatta), kun
+     vastakkaislehtiparit ovat ristissä toinen toisensa kanssa.
+ _säteettäisiä_ (f. verticillata l. stellata, kranssittande), kun
+     varresta kolme tahi useampaa lehteä lähtee säteettäin kuki
+     suunnallensa.
+ _kolmisäteisiä_ (f. terna, tre i krans), kolmella säteettäisellä
+     lehdellä.
+ _nelisäteisiä_ (f. quaterna l. cruciata, fyra i krans).
+ _viisi-, kuusi-, kahdeksasäteisiä_ (f. quina, sena, octona, fem, sex,
+     åtta i krans).
+ _limittäisiä_ (f. imbricata, tegellagda), kun alempi lehti latvallansa
+     peittää lähimäisen ylemmän lehden tyvipuolen. Vartta sanotaan
+     tässä tilassa _limitetyksi_ eli _paanutuksi_.
+ _umpilimisiä_ (f. undique imbricata, helt och hållet betäckande), kun
+     vartta ei näy ollenkaan.
+ _kaksi-, kolmi-, neli-, moniratisesti limittäisiä_ (f. bi-, tri-,
+     quadri-, multifariam imbricata, två-, tre-, fyr-, mångradigt
+     tegellagda), kun lehdet ovat eri rivissä.
+ _yksinäisiä_ (f. solitaria, enstaka), kun vaan yksi lehti on
+     paikassansa.
+ _tukkuisia_ (f. fasciculata, knippevisa), kun yhdestä paikasta
+     lähtee usiampia lehtejä.
+ _ruusukkeisia_ (f. rosulata, rosettlika), kun lehdet yhdestä kimpusta
+     varren ympärillä lähtevät ylöspäin solmuruusun tapaisesti.
+ _erisuuntaisia_ (f. heteromalla, rigtade åt alla sidor), kun lehdet
+     ilman erotuksetta kasvavat mille puolelle tahansa.
+ _yhtäällisiä l. yhdäppäisiä_ (f. unilateralia l. homomalla, ensidiga
+     l. ensidigt böjda), kun ovat vaan yhdellä puolella.
+ _lähentyviä_ (f. conniventia, samstående), kun latvoin lähenevät
+     toisiansa.
+ _ulospäinen_ (f. patentissimum l. horizontale, utspärrad), suoraan
+     varresta ulos lähtevä lehti.
+ _harittava_ (f. squarrosum, spärrad), ulospäisellä latvalla.
+ _rippuva_ (f. pendens l. dependens, hängande), suoraan alaspäinen.
+ _kampela_ (f. obliquum, vind), puolikiertynyt kuin väkkärän siipi.
+ _kiertynyt_ (f. resupinatum l. inversum, omvriden), kun lehden
+     aluspuoli on kääntynyt ylöspäin.
+ _syrjittäinen_ (f. verticale, lodrät), kun lehden ruoti tahi kanta
+     on niin kiertynyt, että toinen laita emälehteä on suoraan ylös,
+     toinen alaspäin.
+ _laiehtiva_ (f. natans, simmande), veden kalvolla makaava.
+ _vedenpäälinen_ (f. emersum, ofvan vattnet varande), kun ompi
+     ylhäällä vedestä.
+ _vedenalainen_ (f. submersum l. demersum, under vattnet liggande),
+     vedessä oleva
+ _kaitainen_ (f. lineare, jemnbred), pitkä ja soukka, ei keskeltä
+     erittäin leveämpi, kuin päistäkin, e.m. heinillä.
+ _neulamainen_ (f. acerosum, barrlik), e.m. havupuilla.
+ _sukamainen_ (f. setaceum, borstlik), sukaisten eli harjasten
+     kaltainen.
+ _hapsimainen_ (f. capillare, hårlik), hieno kuin hivus.
+ _soikea_ (f. ovale, oval), lähes kahden leveytensä pituinen,
+     pyöreämäisillä sivuilla, suipoilla päillä.
+ _pitkänpyöreä_ (f. ellipticum, elliptisk), kahden leveytensä pituinen,
+     pää ja kanta yhtä pyöreitä.
+ _pitkulainen_ (f. oblongum, aflång), 2-3 kertaa pitempi kuin leveä,
+     pyöreämäisellä päällä ja kannalla.
+ _suikea_ (f. lanceolatum, lancettlik), päälle kolmen leveytensä
+     pituinen nirkoilla eli terävillä päillä.
+ _puikea_ (f. ovatum, äggrund), kahden leveytensä pituinen,
+     pyöreäkantainen, suippopäinen.
+ _herttamainen_ (f. cordatum, hjertlik), leveämpi edellistä,
+     lovikantainen pyöreillä liuskoilla molemmin puolin lovea.
+ _nelikulmainen_ (f. rhombeum, rutformig), kulma kantana, toinen päänä,
+     kolmas ja neljäs sivuilla.
+ _epänelinen_ (f. deltoideum, deltaformig), neljällä suoralla sivulla,
+     kantasivut lyhempiä ja nolokulmaisesti päästyksin.
+ _kairamainen_ (f. triangulare, triangelformig), melkein y.k. edell.,
+     mutta kantasivut vieläki nolommasti, melkein suoralinjaisesti
+     toisistaan.
+ _miekkamainen_ (f. ensiforme, svärdlik), pitkä, vahva, tönkeä,
+     suorasivuinen, teräväpäinen lehti.
+ _oramainen_ (f. subulatum, syllik), pitkämäinen, hoikka, huippupääksi
+     vähittäin kapeneva lehti.
+ _kalpamainen_ (f. acinaciforme, sabelformig), kun toinen sivu on
+     paksumpi ja suorempi, toinen ohuempi ja erittäinki päätä vasten
+     kikkerämpi.
+ _sirppimäinen_ (f. falcatum, skärformig), ohut kiverä lehti.
+ _nalkkimainen_ (f. cuneatum, vigglik), hoikkakantainen ja vähittäin
+     laajeneva melkein tasapäiseksi latvaksi.
+ _kieloinen_ (f. lingulatum, tunglik), nalkkimainen lehti pyöreällä
+     päällä.
+ _lapiomainen_ (f. spathulatum, spadlik), pyöreähkä lehti pitkällä
+     kaarevasti hoikkenevalla kannalla.
+ _vastopuikea_ (f. obovatum, omvändt äggrund), pyöreä lehti lyhyellä
+     suipolla kannalla.
+ _vastoherttainen_ (f. obcordatum, omvändt hjertlik), suippokantainen,
+     lovilatvainen lehti pyöreillä liuskoilla molemmin puolin lovea.
+ _kehrämäinen_ (f. orbiculare, cirkelrund), yhtä leveä, kun pitkäki
+     pyöreä lehti.
+ _pyöreä_ (f. rotundum, rund), melkein kehrämäinen.
+ _pyöreähkä_ (f. subrotundum, nästan rund), melkein pyöreä.
+ _pyöreämäinen_ (f. rotundatum, rundad), melkein pyöreähkä.
+ _munuamainen_ (f. reniforme, njurformig), pituuttansa leveämpi,
+     pyöreähkä, lovikantainen lehti, pyöreämäisillä kantaliuskoilla.
+ _kuutava_ (f. lunatum, lunulatum l. semilunatum, månlik), kuun
+     muotoinen ennen täytymistään.
+ _soukkakantainen_ (f. basi attenuatum, mot basen afsmalnande),
+     soukkenevalla kannalla.
+ _kapeakantainen_ (f. basi angustatum, sammantryckt vid basen),
+     kaventunut kannasta.
+ _pyörökantainen_ (f. basi rotundatum, afrundad vid basen).
+ _leveäkantainen_ (f. basi dilatatum, utvidgad vid basen).
+ _tasakantainen_ (f. basi aequale, lika på båda sidor om medelnerven),
+     kun molemmat lehtipuolet ovat toisensa mukaisia kannalta.
+ _epäkantainen_ l. hantera (f. basi inaequale l. obliquum, ojemn vid
+     basen), kun toinen lehtipuoli kannalta on isompi tahi pitemmältä
+     ruotia seuraava kuin toinen.
+ _keihäskantainen_ (f. hastatum, spjutlik), kun kannasta lähtee kaksi
+     vastakkaista ulospäistä liuskaletta.
+ _nuolikantainen_ (f. sagittatum, pillik), kun lehden sivut kantaa
+     vasten jatkuvat kahdeksi kairamaiseksi liuskaksi.
+ _korvakantainen_ (f. auriculatum, öronflikad), kun lehdellä kannan
+     alla on kaksi pyöreämäistä liuskaa.
+ _munuaiskantainen_ (f. basi reniforme, njurlik vid basen), kannalta
+     munuamaisen lehden muotoinen pyöreämäisillä koloilla ja
+     liuskoilla.
+ _herttakantainen_ (f. basi cordatum, hjertlik vid basen), pykäläisellä
+     kololla ja pyöreillä liuskoilla kannassa.
+ _vinoherttainen_ (f. basi oblique cordatum, snedt hjertlik vid basen),
+     kun kantaliuskat eivät ole yhtä isoja.
+ _herttapuoliskoinen_ (f. basi semicordatum, halft hjertlik vid basen),
+     kun toista kantaliuskaa ei ole ollenkaan.
+ _suippo_ (f. acutum, spetsig), kun lehden sivut yhtyvät
+     kaitakulmaiseksi pääksi.
+ _suipukka_ (f. acuminatum, tillspetsad), kun kulma on vieläki
+     kaitaisempi, pitkäveteinen.
+ _nirkko_ (f. cuspidatum, smalspetsig), kun lehden pää on pitkän soukka
+     ja tavallisesti tönkeämäinen.
+ _kärkevä_ (f. pungens, taggspetsig), y.k. ed. pistävällä, tönkeällä
+     kärjellä.
+ _otapäinen_ (f. mucronatum, uddspetsig), kun lehden keskisuoni
+     sojottaa päästä ulos.
+ _tylppäpäinen_ (f. obtusum, trubbig), nykerä, ei suippo eikä nirkko
+     päästä.
+ _pyöröpäinen_ (f. apice rotundatum, afrundad i spetsen),
+     pyöreämäisellä päällä.
+ _typäkkä_ (f. truncatum, afstympad), kuin poikki leikattu päästä.
+ _katkottu_ (f. praemorsum, afbiten), kuin poikki järsitty.
+ _lanttopäinen_ (f. retusum, intryckt), matalalla ontevalla kololla
+     päässä.
+ _pykäläpäinen_ (f. emarginatum, urnupen), vähän syvemmällä
+     teräväpohjaisella kololla.
+ _halkopäinen_ (f. bifidum, tvåklufven), kun syvempi kolo jakaa lehden
+     pään kahdeksi suipoksi liuskaksi.
+ _lovipäinen_ (f. bilobum, tvåflikig), kahdella liuskalla päässä ja
+     syvemmällä pyöreämäisellä kololla välissä.
+ _jakopäinen_ (f. bipartitum, tvådelad), kahdella nirkolla liuskalla
+     ja yli puolen lehteä ulottuvalla kololla välissä.
+ _hammaspäinen_ (f. apice dentatum, tandad i spetsen), useammalla
+     pienellä hampaamaisella yhtä suurella liuskalla pääsä.
+ _kolmi-, neli-, viisihampainen päästä_ (f. apice tri-, quadri-,
+     quinquedentatum, tre-, fyr-, femtandad).
+ _nirhalaitainen_ (f. erosum, söndergnagad), kun laidassa on pieniä
+     pyöreämäisiä, erisuuruisia koloja ja välissä pieniä teräväpäisiä
+     hampaita.
+ _nyhälaitainen_ (f. crenatum, naggad), kun lehden laidassa on suoraan
+     ulospäisiä nyhiä ja niiden välissä pieniä kulmapohjaisia koloja.
+ _toisnyhäinen_ (f. duplicato-crenatum, dubbelt naggad), kun lehden
+     laidassa on ensin isompia nyhäreitä ja niiden laidassa toisia
+     pienempiä.
+ _suipponyhäinen_ (f. acute crenatum, hvasst naggad), kun nyhät ovat
+     suoralaitaisia, suippoja.
+ _tylppänyhäinen_ (f. obtuse crenatum, trubbnaggad), pyöreämäisillä
+     nyhillä.
+ _hienonyhäinen_ (f. crenulatum, fint naggad), pienoisilla nyhillä.
+ _nyhähampainen_ (f. crenato-dentatum, naggtandad), kun laidassa on
+     harvemmalta pieniä, suoraan ulospäisiä nyhämäisiä hampaita.
+ _hammaslaitainen_ (f. dentatum, tandad), erisuuruisilla, suoraan
+     ulospäisillä, hampaamaisilla lisäyksillä laidassa.
+ _hienohampainen_ (f. denticulatum, småtandad), pienoisilla hampailla.
+ _sahalaitainen_ (f. serratum, sågad), kun laita on sahanterän
+     näköinen.
+ _vastosahainen_ (f. retrorsum serratum, omvändt sågad), kun
+     _sahahampaat_ (serraturae) kääntyvät lehden kantaan päin
+     (ovat vastasukaisia).
+ _toissahainen_ (f. duplicato-serratum, dubbelt sågad), kun on ensin
+     isompia hampaita ja niiden laidassa pienempiä.
+ _hienosahainen_ (f. serrulatum, finsågad), pienoisilla hampailla.
+ _jurasahainen_ (f. grosse serratum, grofsågad), isoilla, leveillä
+     hampailla.
+ _otasahainen_ (f. mucronato-serratum, uddsågad), hyvin huippuisilla
+     hampailla.
+ _epäsahainen_ (f. inaequaliter serratum, ojemnt sågad), erisuuruisilla
+     hampailla.
+ _mutkalaitainen_ (f. repandum, bugtbräddad), mutkaisilla laidoilla.
+ _oralaitainen_ (f. margine spinosum, tornbräddad), pistävillä orilla
+     tahi kankeilla hampailla laidassa.
+ _ehytlaitainen_ (f. integerrimum, helbräddad), jolla ei ole nirhoja,
+     nyhiä, hampaita, oria, eikä muita epätasuuksia laidassa.
+ _kierä, karvainen, höyteä_ j.n.e. k. ed.
+ _litteä_ (f. planum, platt), kun lehti on yltä ylensä yhtä tasainen.
+ _kovera_ (f. concavum, urholkad), kun keskilehti on alaspäin onteva
+     eli kuopassa.
+ _kehkerä l. kupera_ (f. convexum, kullrig), kun keskus on ylöspäin
+     pyöreämäisesti kohollaan.
+ _tuuttimainen_ (f. cucullatum, strutlik), kun laidat ovat
+     torvemaisesti yhteen kiertyneet kannasta soukkapohjaiseksi
+     latvaan päin laajenevaksi törröksi eli tötteröksi.
+ _kourumainen_ (f. canaliculatum, rännformig), kun lehti päältä päin
+     on pitkin pituuttansa kuurnamaisesti kovertunut.
+ _venheemäinen_ (f. carinatum, kölad), kun lehtipuoliskot ovat
+     keskisuonta myöten teräväpohjaisesti toinen toistansa vastaan
+     kallistuneet.
+ _vastalaskuinen_ (f. conduplicatum, sammanviken), kun lehtipuoliskot
+     ovat melkein yhteen laskeutuneet.
+ _poimuinen_ (f. plicatum, veckig), useammilla pienillä laskoksilla.
+ _pitkinpoimuinen_ (f. longitudinaliter plicatum, efter längden
+     veckad), pitkittäisillä poimuilla.
+ _poikkipoimuinen_ (f. transversim plicatum, på tvären veckad),
+     poikkipuolisesti poimuttu.
+ _sädepoimuinen_ (f. radiatim plicatum, strålformigt veckad), kun
+     kannasta lähtee säteen tapaisia poimuja yltä ympäri lehden
+     laitaan.
+ _aaltolaitainen_ (f. undulatum, vågig), aaltoilevalla laidalla.
+ _kurttuinen_ (f. rugosum, skrynklig), kun lehti on epätasainen,
+     rypyliäs.
+ _kolea_ (f. lacunosum, gropig), kun suonten välissä varsinki
+     aluspuolella lehteä on pieniä koloja ja painanteita.
+ _kiherä_ (f. crispum, krusig), kun lehdellä erittäinki laidassa
+     on paljo erisuuruisia, mutkaisia poimuja.
+ _kalvomainen_ (f. membranaceum, hinnaktig), ohut hentukka lehti.
+ _kälpeä_ (f. scariosum, torrhinnig), ohut, kuiva, hilsumainen,
+     käsissä hilisevä lehti.
+ _pehmeä_ (f. molle, mjuk), löysäaineinen, ohutläntä, norea lehti.
+ _nahkea_ (f. coriaceum, läderartad), notkea kuin edellinenki, mutta
+     kiinteämpi ja paksumpi.
+ _tankea_ (f. rigidum, styf), nahkamainen, ei notkea lehti.
+ _mehuinen_ (f. pulposum, saftig), täynnä tuoretta, mehuista ainetta.
+ _möyheä l. lihava_ (f. carnosum, köttig), täynnä paksumaista,
+     vähemmin mehevää sisusta.
+ _pillimäinen_ (f. fistulosum, pipig), kun laidat ovat niin yhteen
+     kiertyneet ja kasvettuneet, että lehti on liereä, tyhjäsisuksinen.
+ _outovärinen_ (f. coloratum, färgad), joka ei ole vehriä.
+ _sinivihertävä_ (f. glaucum, blågrön).
+ _kehnäinen_, k. ed.
+ _kaksivärinen_ (f. discolor, olikfärgad), kun lehden alus- ja
+     päälyspuoli ovat erivärisiä.
+ _paikullinen l. tähneellinen_, k.ed.
+ _kuultopilkkuinen_ (f. pellucide punctatum, genomskinligt punkterad),
+     läpikuultavilla pilkuilla, joissa _solut_ (cellulae) ovat öljyllä
+     täytetyt, kun niissä muuten ja tavallisesti on lehtivehriää
+     (chlorophyllum, bladgrönt).
+ _läpipisteinen_ (f. perforatum, genomstungen), y.k. ed.
+ _munanmoinen, nalkinmoinen_ j. n. e. (oviforme, cuneiforme...,
+     äggformig, viggformig), paksu munan, nalkin j.n.e. muotoinen
+     lehti.
+ _lyhytaikuinen_ (f. caducum, snart affallande), kun pian
+     ilmestymisensä jälkeen varisee jo ennen syksyä.
+ _yksikesäinen_ (f. deciduum, årligen affallande), joka kestää vaan
+     yhden kesän, syksyllä lakastuu ja varisee.
+ _monikesäinen_ (f. persistens, qvarsittande), joka ei varise syksyllä,
+     vaan kestää talven yli, yhden eli useamman.
+ _surkastuva_ (f. marcescens, vissnande), joka nuutuu ja kuihtuu
+     varrella ilman varisematta, niin kuin aluslehdeillä useinkin
+     on tapana.
+ _ainavehriä_ (f. sempervirens, ständigt grönskande), y.k.
+     monikesäinen.
+
+
+
+
+Perälehdeistä.
+
+
+_Perälehti_ (bractea, skärmblad l. blomskärm), yhteinen nimi
+semmoisille lehtimäisille kasviosille, jotka ovat kukkaperällä tahi
+lähellä kukkaa ja muodollansa sekä värillänsä eroavat muista lehdeistä.
+Perälehtiä on eri nimillänsä: _suojuslehti, varus, lisäverho, kotelo ja
+kehto_.
+
+ _suojus_ (bractea, blomskärm), tavallisesti yksinäinen, välistä perään
+     kiinni kasvettunut lehti lähellä kukkaa.
+ _joutosuojus_ (bractea vacua, tom blomskärm), jolla ei ole kukkaa,
+     tahikka vaan joku kukan käperö.
+ _latvasuojus_ (coma, toppskärm); latvasuojuksiksi sanotaan useampia
+     perän latvaan ryhmistyneitä joutosuojuksia.
+ _suojukseton_ (ebracteatus, skärmlös), kun perällä ei ole mitään
+     suojuslehteä.
+ _varus_ (involucrum, svepe); varukseksi eli _varuslehdeiksi_
+     (f. involucralia, svepeblad) sanotaan niitä perälehtiä, jotka
+     alapäässä perää tavallisesti ovat säteettäin ja useampia.
+     Erinäisten lehtiensä mukaan ovat ne _yksi-, kaksi-, kolmi-, neli-,
+     viisi-, monilehtisiä_ (mono-, di-, tri-, tetra-, penta-,
+     polyphylla, en-, två-, tre-, fyr-, fem-, mångbladiga).
+ _sarjavarus_ (involucrum universale l. involucrum, allmänt svepe),
+     sarjakukissa yhteisen sarjan päässä.
+ _sarjukkavarus_ (inv. partiale l. involucellum, enskildt svepe),
+     erinäisten sarjain eli sarjukkain alapäässä.
+
+Kumpiki niin sarja- kuin sarjukkavarus taitaa olla: _pysyvä_ (inv.
+persistens, qvarsittande), kun pysyy paikallaan kukkimisen jälkeen;
+_lyhytaikuinen_ (inv. caducum, snart affallande), kun jo kukkimisen
+alussa varisee; _täysinäinen_ (inv. completum, fullständig), kun
+varuslehtiä lähtee säteettäin yltä ympäritse; _puolinainen l.
+vajanainen_ (inv. dimidiatum l. unilaterale, half), kun varuslehtiä ei
+ole kun toisella puolella; _parihalkoinen_ (inv. pinnatifidum,
+parklufven), kun on parittain jakaunut tasasoukiksi liuskoiksi.
+
+ _lisäverho_ (calyculus l. calyx exterior, foderholk l. yttre
+     blomfoder); siksi sanotaan pienoisia perälehtiä, jotka ovat
+     verhossa kiinni ikään kuin toinen ulkopuolinen eli ulkoverho.
+ _kotelo_ (spatha, blomhölster), tuppimainen perälehti, joka eräissä
+     kasveissa peittää kukan ennen valmistumistansa ja sitte kukan
+     ilmestyessä halkeaa kyljestä. Välistä on kotelossa useampaaki
+     yhteen kasvettunutta lehteä. Sitä sanotaan _yksikukkasiseksi_
+     (sp. uniflora) kun sillä on vaan yksi, ja _monikukkasiseksi_
+     (sp. multiflora), kun sillä on useampaa kukkaa.
+ _kehto_ (periclinium, anthodium, calyx communis, involucrum,
+svepefoder l. blomholk), monta verhomaiseksi kiehkuraksi
+     ryhmistynyttä perälehtiä kukastollisten eli yhdyskukkain ympäri
+     e.m. ohdakkeissa. Kehdon eri lehtiä sanotaan _kehtolehdeiksi_
+     (foliola, småblad), jos ovat vehriöitä, lehtimäisiä, ja
+     _suomuiksi_ (squamae, fjäll), jos ovat kuivia, kalvomaisia. Paitsi
+     tätä yhteistä kehtoa on muutamissa yhdyskukissa itsekunkin eri
+     kukan välissä pienoisia perälehtiä omalla nimellänsä _vareet_
+     (paleae, fästefjäll l. agnblad).
+Erittäin nimitettäviä kehdon ja kehtolehtien tunnussanoja ovat
+_yksirivinen_ (uniserialis, enradig), _kaksirivinen_ (biserialis,
+tvåradig), kun ovat yhdessä tahi kahdessa rivissä, _paanuttu l.
+limitetty_ (imbricatus, tegellagd) k. ed., _lisäverhoinen_
+(calyculatus, försedd med en foderholk), _haritettu_ (squarrosus,
+spärrbladig), kun lehdet ovat harittavia, _säteettäinen_ (radiatus,
+strållik), kun ylemmäiset lehdet ovat alemmaisia pitemmät, säteettäin
+ulospäiset ja tavallisesti toisväriset. _Kehtokannaksi_ (cupula, skål
+l. bägarfoder) sanotaan hedelmän pohjalla olevaa maljamaista kehtoa,
+jonka suomut ovat kovettuneet ja yhteen kasvettuneet e.m. pähkinöissä,
+terhoissa.
+
+
+
+
+Apulehdeistä.
+
+
+ _Apulehdet_ (stipulæ, stipler) ovat lehtimäisiä osia, jotka muutamissa
+kasviheimoissa peittävät ja suojaavat varsilehden ennen sen puhkeamista
+ja sitte joko menehtyvät tahi jäävät lehden vaiheilla kasvamaan. Niitä
+on kolme erilajia: _korvake, tupeke, kieleke_.
+
+ _korvakkeet_ (stipulae, stipler), parittain lehden tahi ruodin
+     alapäässä olevat apulehdet seuraavilla erotuksilla.
+ _sivukorvakkeet_ (stipulae laterales, sidostipler), yksi kummallaki
+     puolella lehden juurta.
+ _hankakorvakkeet_ (st. axillares l. intrafoliaceae, bladveckstipler),
+     lehtihangassa.
+ _aluskorvakkeet_ (st. extrafoliaceae, ryggstipler), lehtijuuren alla.
+ _vastaiskorvakkeet_ (st. oppositifoliae, motstipler), vastatusten
+     kummallaki puolella vartta lehtijuurella.
+ _ruotikorvakkeet_ (st. petiolares, bladskaftsstipler), kun ovat
+     ainoastaan ruodissa kiinni.
+ _lehdykkäkorvakkeet_ (stipellae, småbladsstipler), lehdykkäin juuressa
+     moniyhteisissä lehdeissä.
+ _erinäiset_ (st. liberae l. solutae, fria) ovat ne korvakkeet, jotka
+     ovat vaan kannastaan kiinni.
+ _ruotivaraiset_ (st. marginales l. petiolo adnatae, randstipler l. med
+     sidorna fastväxta vid bladskaftet), kun ovat sivuillaan ruotiin
+     kiinnettyneet.
+ _varsivaraiset_ (st. cauli adnatae, med sidorna fastväxta vid
+     stjelken), varressa sivusta kiinni.
+ _kaksivaraiset_ (st. ambigue adnatae, med sidorna fastväxta vid både
+     stjelken och bladskaftet), sekä ruodissa että varressa kiinni.
+ _yhtyneet_ (st. connatae, sinsemellan sammanväxta), kun ovat toinen
+     toiseensa kiinni kasvettuneet.
+ _puikeapuolikas_ (st. semiovata, halft äggrund), _herttapuolikas_
+     (st. semicordata, halft hjertlik), _munuaispuolikas_ (st.
+     semireniformis, halft njurlik), _keihopuolikas_ (st. semihastata,
+     halft spjutlik), _nuolipuolikas_ (st. semisagittata, halft pillik)
+     j.n.e. osottavat puikean, herttamaisen, manuamaisen j.n.e.
+     puoliskoita.
+ _tupeke_ (ochrea, stipelslida), kaksi lehdestä ylöspäin solmuisen
+     varren ympärille solmuväliin tuppimaisesti yhteen kasvettunutta
+     apulehteä.
+ _kieleke_ (ligula, bladsnärp), hieno, läpipaistava kalvo
+     heinäkasveilla tuppimaisten lehtiensä aukeamassa. Sitäkin
+     erotetaan sanoilla _pykäläpäinen, kaksihalkoinen, kaksikorvainen_
+     (l. biaurita, tvåörad) j.n.e.
+ _apulehdetön_ (exstipulatus, stipellös) ja apulehtinen (stipulatus,
+     stipelbärande) ovat itsestänsä ymmärrettäviä.
+
+
+
+
+Silmikoista.
+
+
+_Silmikko l. silmä_ (gemma, knopp) on kaikenlaisten varsien,
+varsikasvainten, haarain j.n.e. ensialku, jonka ensin lehtiaihos
+(praefoliatio l. vernatio, örtbladens knoppläge) ja päälliseksi
+tavallisesti suomukat (perulae, knoppfjäll) peittävät.
+
+ _latvasilmikko_ (gemma terminalis, ändknopp, terminalknopp), joka on
+     varren tahi haaran päässä.
+ _sivusilmikko_ (g. lateralis, sidoknopp), sivulla eli kyljessä haarain
+     alkuna oleva.
+ _paljas_ (g. nuda, naken,) on se silmikko, jolla ei ole suomukoita
+     peitteenä.
+ _katteinen_ (g. tecta, täckt), suomukoilla katettu.
+ _lehtisilmikko_ (g. foliifera, bladknopp), josta ei tule muuta kun
+     lehtiä.
+ _kukkasilmikko_ (g. florifera, blomknopp), josta vaan kukkia lähtee.
+ _sekasilmikko_ (g. folio-florifera l. mixta, blandad knopp), jossa
+     on sekä lehden että kukan alkuja.
+ _lehtiaihos_ (praefoliatio l. vernatio, örtbladens knoppläge) on se
+     silmikossa lehdiksi muuttuva osa, joka tarkemmin määrätään
+     seuraavilla sanoilla.
+ _vierettäinen_ (praefoliatio l. folia in gemmis adplicata, lagda platt
+     intill hvarandra), kun lehdenalut ovat vieretysten suorana.
+ _poimuinen_ (p. plicata, veckad), pitkittäisillä poimuilla.
+ _vastalaskuinen_ (p. conduplicata, mot öfre sidan dubbelviken), kun
+     lehdenalut ovat vastalaskuisia.
+ _taaskääntöinen_ (p. reclinata, tillbakaviken), kun lehden alkuin
+     pää on taaspäin kantaa vasten kääntynyt.
+ _käppyräinen_ (p. circinalis, snäckformigt hoprullad), päästä alkain,
+     kuin tuohen käppyrä, itsesisäänsä kiertyneillä lehdenaluilla.
+ _hakalaitainen_ (p. obvoluta, inneflutande hvarandras kanter), kun
+     lehdenalut kääntyneistä laidoistansa ovat hakamaisesti toisissaan
+     kiinni.
+ _käärimäinen_ (p. convoluta, sammanrullad), laidasta lähtein
+     itsesisäänsä kiertyneillä lehdenaluilla.
+ _vastakierteinen_ (p. involuta, inrullad), kun lehdenalun kumpiki
+     laita on ylöspäin toinen toistansa vastaan itsesisäänsä kiertynyt.
+ _alaskierteinen_ (p. revoluta, tillbakarullad), kun ovat samalla
+     tavalla k. ed. alaspäin kiertyneet.
+ _paanuttu_ (p. imbricata, tegellagd), kun kaksi sisämäistä lehdenalkua
+     ovat kulmamaisesti kääntyneet laidoillansa vastatuksin, ja niiden
+     päällä on toisia samalla tavalla kääntyneitä niin, että
+     päälimäisten keskipaikat lehteä vastaavat alimaisten laidoille.
+ _kaksittain limilaskuinen_ (p. equitans anceps, tvåsidigt omfattande
+     hvarandra), kun useampia vastalaskuisia lehtiä on toinen toisensa
+     sisässä, sisämäisten laidat ulkomaisten laskoskulmaa vasten.
+ _kolmittain limilaskuinen_ (p. equitans triquetra, tresidigt
+     omfattande hvarandra), kun useammista venheemäisistä tahi
+     vastalaskuisista, toinen toisensa sisässä olevista lehdenaluista
+     sisämäisen toinen laita on päälimäisen laskukulmassa, ja
+     keskikohta päälimäisen toisen laidan alla, toinen laita taas
+     juoksee ulkopuolelle päälimäisen lehdenalun laskukulmaan j.n.e.
+ _siemensilmikko_ (bulbogemma, knopplök), on erilaatuinen silmikko
+     joka valmiina eriää emäkasvista ja siittää uuden itsepäällisen,
+     kun tavalliset silmikot vaan lisäävät emäkasvia.
+ _siemensilmikkoinen_ (bulbifer l. bulbiger, lökbärande); siksi
+     sanotaan sitä lehtihankaa tahi muuta kohtaa, jolla on
+     siemensilmikko.
+
+
+
+
+Kukista.
+
+
+_Kukkaperä l. perä_ (pedunculus, blomskaft) on se kukkasilmikosta
+lähtevä varren jatko, joka kannattaa kukan, ja joka taitaa olla joko
+yksinäinen ja yksikukallinen tahi haarova, monikukallinen j.n.e.
+
+ _vana_ (scapus, stängel), maanalaisen varren päästä lähtevä kukkaperä,
+     jota itseänsäki ennen tavallisesti on vartena pidetty.
+ _juurisperä_ (pedunculus radicalis, rotblomskaft), joka lähtee
+     maanalaisen varren sivulta, ei päästä.
+ _kukkavarsi l. lapakko_ (rachis, blomfäste l. blomspindel), se varren
+     osa tahi haarovan perän runko, josta lähtee useampia kukallisia
+     _perähaaruksia_ (pedicelli, småskaft).
+ _terttu_ (racemus, blomklase) on semmoinen kukostus, jossa
+     pitkäveteinen kukkavarsi sieltä täältä työntää melkein
+     yhdenpituisia kukkaperiä pitkin pituuttansa, e.m. tuomella.
+ _röyhy_ (panicula, blomvippa), kun pitkäveteisestä kukkavarresta
+     sieltä täältä lähtee useampia siirottavia tahi ulospäisiä pitempiä
+     kukkahaaruksia, jotka uudelleen haarauvat, e.m. kasteheinällä.
+ _harkko_ (thyrsus, blomspira), kun latvasta kukkimaton, pitkäveteinen
+     kukkavarsi lähettää monihaaraisia viuhkaisia periä, joista
+     alemmaiset kukkivat ennen ylemmäisiä ja keskimäiset ennen
+     vierimäisiä, e.m. sirenillä.
+ _huiskilo_ (corymbus, blomqvast), kun kukkahaarukset lähtevät eri
+     paikoilta pitkäveteistä lapakkoa, ja alemmaiset nousevat
+     tasapäähän ylemmäisten kanssa. Se on joko haaromaton, kun perät
+     ei enempi haarau, tahi haarova, e.m. kärsäkukalla.
+ _mykerö_ (capitulum, blomhufvud), kun eriverhoiset perättömät kukat
+     ovat palleromaisesti kiinni ryhmistyneet lyhytvartiseen lapakkoon,
+     e.m. apilaassa.
+ _kiehkura_ (verticillus, blomkrans), kun kukat ovat kiehkurassa varren
+     ympäri joko _perättöminä_ (vertic. sessilis, oskaftad) tahi
+     _peräkkäinä_ (v. pedunculatus, skaftad). Tavallisesti sanotaan
+     myös kiehkuraksi sitä kukostusta lehtihangassa tahi latvassa, kun
+     kaksi pientä viuhkamaista tahi sarjamaista kukostusta ovat
+     vastatuksin ja levenevät varren ympäri toinen toisensa lähelle,
+     e.m. mintussa.
+ _tähkä_ (spica, ax), kun kukat melkein perättöminä lähtevät
+     pitkänhoikasta lapakosta, e.m. rukiissa ja sarassa.
+
+Tähkä saattaa olla joko _yksikertainen_ (simplex, enkel) yksittäisillä
+kukilla, tahi _toiskertainen_ (composita, sammansatt), kun yksityisten
+kukkain sijasta on pieniä _tähkylöitä_ (spiculae, småax), _yhtenäinen_
+(aequalis l. continua, jemnt blombärande), jolla ei ole suurempia
+välipaikkoja, tahi _välikköinen_ (interrupta, afbruten), kun kukat ovat
+eri kihermissä, _yksipuolinen_ (uni-lateralis, enradig), kun ovat vaan
+yhdellä puolella, _yhdäppäinen_ (secunda, ensidig), kun kääntyvät
+yhdelle suunnalle, _kaksi-, kolmi-, neli-, viisi-, kuusiratinen_ (bi-,
+tri-, quadri-, quinque-, sexfaria, två-, tre-, fyr-, fem-, sexradig)
+taikka _kaksi-, kolmi-, neli-, viisi-, kuusitahkoinen_ (di-, tri-,
+tetra-, penta-, hexasticha, två-, tre-, fyr-, fem-, sexsidig).
+
+ _norkko l. palmu_ (amentum, julus, hänge), kun hienolla, tavallisesti
+     notkealla, kukkiessaan tahi hedelmöityään varisevalla
+     pitkulaisella lapakolla on perättömiä, vaillinaisia kukkia,
+     katetut ennen puhkeamistaan limisuomuisilla, ei tuppimaisilla
+     suojuksilla, e.m. koivussa, lepässä, pajussa, haavassa.
+
+Norkon määrä-ajallansa variseminen erottaa sen tähkästä, ja heinäin
+tähkästä sekin, että suojukset eivät ole tuppimaisia.
+
+Norkot ovat joko _hedenorkkoja_ (amentum masculum, hankönadt hänge),
+joilla on paljaita hedekukkia, tahi _eminorkkoja_ (am. femineum,
+honkönadt hänge) paljailla emikukilla, yhdessä tahi eri kasveissa.
+Edelliset varisevat kukassaan, jälkimäiset hedelmöinä.
+
+Mikäli norkko ilmaantuu lehtimisen edellä, yhtaikaa tahi perästä, on se
+_varhainen_ (am. praecox, tidig) _yhtaikainen_ (am. coaetaneum,
+liktidig) tahi _myöhäinen_ (am. serotinum, sen).
+
+ _käpy_ (strobilus, conus, kotte) on eminorkko, jonka suomut kukkimisen
+     jälkeen ovat paisuneet ja kovettuneet nahkeamaiseksi aineeksi,
+     e.m. kuusessa ja männyssä. Katajassa ja eräissä muissa ovat
+     kukkasuojukset yhteen kasvettuneet marjakuoreksi, jota marjaa
+     nimitetään marjakävyksi (galbulus, bärkotte).
+ _puikelo_ (spadix, blomkolf), pitkänomainen kukostus, jossa
+     kukkavarren pää on paksuksi turvonnut ja kukat siihen kuin sisään
+     painuneet, e.m. suovehkassa. Puikelo on milloin _koteloinen_
+     (spathaceus, försedd med blomhölster), milloin _koteloton_
+     (espathatus, saknande blomhölster).
+ _viuhko_ (cyma, blomknippe), kun yhtä korkealta varren päästä lähtee
+     kaksi tahi useampaa kukkahaarusta, jotka epätasaisesti haarauvat
+     ja kasvavat tasapäisiksi, e.m. heisipensaassa. _Kuoperoviuhkoksi_
+     (anthela) sanotaan viuhkoa, jos latvakukka on lyhempi vierimäisiä
+     ja varsinki äärimäisiä.
+ _tupsu_ (fasciculus, blomtofs), on viuhkomainen kukostus varsin
+     lyhyillä kukkahaaruksilla ja liketysten olevilla täydemmillä
+     kukilla, joka ulkomuotoansa on mykerömäinen tahi kapeasarjainen,
+     e.m. tervakolla.
+ _pallero_ (glomerulus, blomnystan), vieläki lyhemmillä haaruksilla
+     ja kerämäisesti yhteen tukutuilla kukilla tavallisesti lehti- tahi
+     haarahangassa.
+ _sykerö_ (anthurus, blomsvans), tähkä-, tahi norkkomainen kukostus
+     kukkapalleroilla pitkin lapakkoa.
+ _sarja_ (umbella, blomflock), kun yhdestä kohti varren tahi
+     varsihaaran päästä lähtee säteettäin useampia periä, joista kuki
+     joko kantaa kukan, tahi lähettää päästänsä samantapaisia uusia
+     sädeperiä. Edellisessä tapauksessa sanotaan sarjaa _yksinäiseksi_
+     (umb. simplex, enkel), jälkimäisessä _toiskertaiseksi_ (umb.
+     composita, sammansatt).
+
+Toiskertaisia sarjoja sanotaan myös _sarjastoiksi_, ja niissä erotetaan
+_emäsarja_ (umb. universalis, allmän blomflock) _sarjukoista_ (umbellae
+partiales l. umbellulae, enskilda blomflockar), jotka lähtevät
+emäsarjan perien päästä. Näitä emäsarjan periä sanotaan _säteiksi_ eli
+_sarjaperiksi_ (radii, strålar) ja sarjukkain periä _peryköiksi_ eli
+_sarjukkaperiksi_ (pedicelli, småstrålar l. småskaft).
+
+ _tasakukkahinen_ (umb. similiflora, likblommig), on se sarjasto,
+     jonka kaikki kukat ovat yhtäsuuria.
+ _sädekukkahinen_ (umb. radiata, strålblommig), kun laitakukat eli
+     terälehdet sarjan äärimäisissä kukissa ovat isompia, kuin
+     keskisarjassa.
+ _kehkerä_ (umb. convexa, kullrig), yhtäpitkillä säteillä.
+ _tasapäinen_ (umb. plana, jemn), kun äärimäiset säteet ovat pitempiä
+     ja yhtä korkealla keskimäisten kanssa.
+ _onteva_ (umb. concava, fördjupad), kun keskimäiset säteet ovat paljo
+     lyhemmät äärimäisiä ja sarja keskeltä kuopassa.
+ _koppilo_ (calathium, anthodium l. calithidium, blomkorg l. blomster)
+     on semmoinen kukostus, jossa useampaa pientä kukkaa seisoo
+     vieretysten kukkaperän päältä laajenneessa päässä ja yhteisen
+     suojuskehdon sisässä. Koppiloa osotetaan myös sanoilla _kukasto,
+     yhdyskukka_ (flores compositi, sammansatta blommor) ja
+     _kukkaryhmä_ (flores adgregati, gyttrade blommor), joista
+     edellinen merkitsee sitä, että kunkin erikukkasen heteet ovat
+     ponsistaan yhdessä. Koppilossa on erotettava _erikukkaset_
+     (flosculi, småblommor), _lava l. marto_ (receptaculum l.
+     anthoclinium, blomsterfäste), kukkaperän laajennut pää, jossa
+     erikukkaset seisovat, ja _kehto_ (periclinium l. anthodium,
+     svepefoder). Kehdosta on jo ennen mainittu, muilla osilla on
+     seuraavia selityssanoja.
+ _kieloiskukkahinen_ (calathium lingulatum l. semiflosculosum,
+     tungblomstrig), on koppilo kieloisilla erikukilla. Sanotaan myös
+     lyhemmästi semmoista koppiloa _kieloiskukastoksi_ (flos compositus
+     lingulatus l. semiflosculosus, tungblomster).
+ _pillikukkahinen_ (c. tubulosum, rörblomster), kun kaikki erikukat
+     ovat pillimäisiä. Sanotaan myös _pillikukastoksi_ (flos compositus
+     tubulosus l. flosculosus l. discoideus, rörblomster).
+ _kehrämäinen_ (c. discoideum, disklik), pillikukasto yhtäsuurilla
+     kukilla.
+ _säteehtivä_ (c. radians, strålformig), pillikukasto vähän isommilla,
+     epätasaisilla laitakukilla.
+ _sädekukkahinen_ (c. radiatum, strålblomstrig) ja _sädekukasto_ (flos
+     compositus radiatus, strålblomster), kun kukat keskellä ovat
+     pystöisiä, pillimäisiä, laidalla ulospäisiä, kielekkeisiä. Se
+     keskikohta koppiloa pillimäisillä kukillansa sanotaan erinimellä
+     _kehräksi_ (discus, disk) ja kielekkeiset laitakukat säteiksi
+     (radii, strålar).
+ _tasaneuvoinen_ (c. homogamum, likkönad) on se koppilo, jonka erikukat
+     ovat täysineuvoisia.
+ _sekaneuvoinen_ (c. heterogamum, olikkönad), kun saman koppilon
+     erikukilla on millä vaan heteitä, millä emiä.
+ _erineuvoinen_ (c. heterocephalum l. c. homogamum diclinum,
+     skiljdkönad), kun saman lajin erikoppiloilla on millä vaan
+     hede-, millä emikukkia.
+
+Lavaa eli martoa erotetaan seuraavilla selityssanoilla: _litteä_
+(receptaculum planum, platt), _onteva_ (concavum, hvälfd),
+_palleroinen_ (globosum, klotrund), _keilamainen_ (conicum,
+kägelformig), _liereä_ (cylindricum, cylindrisk), _täyteinen_ (solidum,
+tät), _onsi l. tyhjäsisuinen_ (cavum, ihålig), _pilkullinen_
+(punctatum, punkterad), _kuopurainen_ (scrobiculatum l. foveolatum,
+smågropig), _lokeroinen_ (favosum, bikakslik), _vareinen_ (paleaceum,
+fjällig), _kalsea_ (hirtum, sträfhårig), _karvainen, sukahinen, paljas_
+j.n.e.
+
+_Yksinäisiä_ (solitaria, ensamma), ovat ne koppilot, jotka ovat
+yksikukkahisella varrella. _hajallisia_ (sparsa, spridda),
+_lehtihankaisia_ (axillaria, fästade i bladvecken), _röyhymäisiä_
+(paniculata l. in paniculam disposita, förenade i blomvippa),
+_harkkomaisia_ (thyrsoidea l. in thyrsum disp., förenade i blomspira),
+_huiskilomaisia_ (corymbosa, förenade i blomqvast), _palleromaisia_
+(glomerulosa, förenade i blomnystan), _mykerömäisiä_ (in capitulum
+disposita, förenade i blomhufvud) ovat koppilot, mikäli itse sanat
+osottavat ja samoin sanotaan muitaki kukostuksia välistä
+_terttumaiseksi_ (racemosus, klaselik), _tähkämäiseksi_ (spiciformis,
+axlik), j.n.e. jotka eivät tarvinne erityistä selitystä.
+
+
+
+
+Siittimistä.
+
+
+ _Ilmisiittiö_ (planta phanerogama, fanerogam), kukallinen kasvi
+     selvästi erotettavilla siittimillä.
+ _salasiittiö_ (pl. cryptogama, kryptogam), kukaton kasvi puuttuvilla
+     tahi epäselvillä siittimillä.
+ _kukka_ (flos, blomma), se kasvin osa, joka tekeyy siittimistä ja
+     niiden katteista ennen puhkeamista.
+ _kukanalku_ (flos virgineus, outvecklad blomma), puhkeamaton.
+ _luomet_ (perianthium, blomhylle), ne lehtimäiset osat, jotka ovat
+     siitinten kattamista varten, ja jotka, kun niillä ei ole
+     varsinaista siittämisen tointa, monessa kasvissa puuttuvat;
+     ne ovat _verho_ ja _terä_.
+ _verho_ (calyx, blomfoder), ulkopuolinen, lehtimäinen, tavallisesti
+     vehreä luomiosa.
+ _terä_ (corolla, blomkrona), sisämäinen, hennompi, erivärinen
+     luomiosa.
+ _hede_ (stamen, ståndare), siitinten uros- eli koiraspuoli,
+     siittämisen eli hetimisen jälkeen menehtyvä.
+ _emi_ (pistilla, pistill), siitinten naaraspuoli, siitämisen jälkeen,
+     ainakin tyvipuolellansa, pysyvä hedelmän valmistumiseen saakka.
+ _täysinäinen kukka_ (flos completus, fullständig blomma), jolla on
+     kahdenkertainen luomi (perianthium duplex, dubbelt blomhylle)
+     s.o. sekä verho että terä.
+ _vaillinainen kukka_ (flos incompletus, ofullständig blomma), jolla
+     on vaan yksinäinen luomi (perianthium simplex, enkelt blomhylle).
+ _terätön_ (flos apetalus, kronlös), vaillinainen kukka vehreällä
+     luomella. Sanotaan myös semmoisella kukalla olevan _yksinäinen
+     verhomainen luomi_ (perianthium simplex calycinum, enkelt
+     blomfoderlikt hylle).
+ _verhoton_ (flos acalycinus, blomfoderlös), vaillinainen kukka
+     terämäisellä väriluomella, ja sanotaan senlaisella kukalla olevan
+     _yksinäinen terämäinen luomi_ (perianthium simplex corollinum,
+     enkelt kronlikt hylle). Verhottomalla kukalla ja täysinäiselläki,
+     jos sen verho ei ole vehreä, on myös toinen tavallinen nimi:
+     _kupu_ (perigonium, blomkalk).
+ _luometon l. alaston_ (flos nudus, naken) on se kukka, jolla ei ole
+     verhoa eikä terää, vaan paljaat siittimet.
+ _täysineuvoinen_ (flos hermaphroditus l. bisexualis, samkönad l.
+     tvåkönad), jolla on sekä heteet että emit, kuin kaikissa
+     tavillisissa kukissa.
+ _erineuvoinen l. yksineuvoinen_ (flos diclinus l. unisexualis,
+     skiljdkönad l. enkönad), kun eri kukissa on, missä vaan heteitä,
+     missä emiä, s.o. ne ovat taikka _hedekukkia_ (flores masculi,
+     hanblommor) taikka _emikukkia_ (flores feminei, honblommor).
+ _neuvoton l. tyhjä_ (flos neuter, könlös l. gallblomma), kun kukassa
+     ei ole emiä eikä hedettä.
+ _yksisopuinen_ (planta monoclina, samkönad) on se kasvi, jolla on
+     kaikki kukkansa täysineuvoisia.
+ _erisopuinen_ (pl. diclina, skiljdkönad), erineuvoisilla kukilla.
+ _yksikotinen_ (pl. monoica, sambyggare), kun yksi ja sama kasvi on
+     erisijainen, s.t.s. muutamissa kukostuksissa tavataan vaan
+     hedekukkia, toisissa emikukkia. Jos sillä samassa kukostuksessa
+     on hede- ja emikukkansa erillään, sanotaan sitä _sekaneuvoiseksi_
+     (pl. androgyna, androgynsk).
+ _kaksikotinen_ (pl. dioica, tvåbyggare), kun saman lajin yhdessä
+     kasvissa ei tavata kun emikukkia, toisessa ei kun hedekukkia.
+ _sekasopuinen_ (pl. polygama, mångbyggare), kun yhdellä kasvilla on
+     muutamat kukkansa täysineuvoisia, toiset erineuvoisia.
+ _erilehtinen_ (calyx eleuterosepalus, fribladig) on verho, kun sillä
+     on useampaa erinäistä lehteä. Niitä itsekutaki silloin sanotaan
+     _verholehdeksi_ (sepalum, blomfoderblad) ja mikäli niitä on,
+     sanotaan verhoa _kaksi-, kolmi-, neli-, viisi-, monilehtiseksi_
+     (c. di-, tri-, tetra-, penta-, polysepalus, två-, tre-, fyr-,
+     fem-, mångbladig).
+ _yhdislehtinen l. yksilehtinen_ (c. gamosepalus l. monosepalus,
+     sambladig) on verho, jonka lehdet ovat kasvettuneet yhtenäiseksi
+     lehdeksi. Yhdislehtistä verhoa sanotaan myös _yhdisverhoksi_.
+ _torvi_ (tubus, pip), yhdislehtisen verhon kokonaan yhteen kasvettunut
+     alimainen, tavallisesti soukempi osa.
+ _laide_ (limbus, bräm), yhdislehtisen verhon ylempi erinäisempi,
+     tavallisesti leveämpi osa.
+ _nielu_ (faux, svalg l. pipöppning), torven ja laiteen välikohta.
+ _ehytlaitainen_ (calyx integer, helbräddad) on yhdislehtinen verho
+     päähän asti yhteen kasvettuneilla lehdeillä.
+ _hammaslaitainen, halkoinen, liuskainen, lohkoinen_ j.n.e. on sillä
+     erotuksella, kun sanat osottavat, yhdislehtinen verho, jonka
+     erilehdet eivät ole päähän asti yhdessä.
+ _huulimainen_ (c. labiatus, läppformig) on yhdislehtinen verho
+     kahdella eripitkällä huulten tapaisesti toinen toistansa vastaan
+     asettuneella liuskalla, joilla samoin kuin nielullakin on
+     erotussanansa yhteisiä niiden kanssa, joita terästä vastapäin
+     selitetään.
+ _kahdenkertainen_ (c. duplex, dubbel), lisäverhoinen verho.
+     Kahdenkertaisena varsinaista verhoa sanotaan _sisäverhoksi_
+     (c. interior, inre) ja lisäverhoa _ulkoverhoksi_ (c. exterior,
+     yttre).
+ _kiinteisiä_ (sepala clausa, tillslutna) ovat verholehdet, kun
+     makaavat kiinni terässä ja laidoilla toisissansa.
+ _ylöspäisiä_ (s. erecta, upprätta), kun erillään terästä ovat
+     pystössä.
+ _ulospäisiä_ (s. patentia, utstående), kun enemmin eli vähemmin
+     ulottavat terästä.
+ _alaspäisiä_ (s. reflexa, tillbakaböjda), kun kukkiessa ovat
+     kääntyneet terästä peräänpäin.
+ _lisäkkeisiä_ (s. appendiculata, försedda med bihang), kun verholehdet
+     juureltansa lähettävät ulottavaisia eriliuskoja.
+ _kannustettuja_ (s. calcarata, försedda med sporrar), kun joka
+     verholehti on kasvettunut oramaiseksi, tyhjäsisuiseksi niin
+     kutsutuksi kannukseksi.
+ _yhdislehtinen l. yksilehtinen_ (corolla gamopetala, sambladig),
+     _erilehtinen_ (c. eleuteropetala, fribladig); _torvi, laide,
+     nielu_ ovat merkintönsä vuoksi, kuin edellä verhossa.
+ _terälehti_ (petalum, kronblad) erilehtisen terän kukin eri lehti.
+ _kanta_ (unguis, klo), terälehden soukempi tyviosa.
+ _lapa_ (lamina, skifva), terälehden leveämpi osa, joka saattaa olla
+     _ehytlaitainen, halkoinen, liuskainen, hammaslaitainen,
+     nyhälaitainen, ripsinen_ j.n.e.
+ _ripsuinen_ (lamina fimbriata, fransad) on terälapa, kun on jaettu
+     pitkiin varsin soukkiin siekaleisiin,
+ _yksi-, kaksi-, kolmi-, neli-, viisi-, monilehtinen_ (corolla mono-,
+     di-, tri-, tetra-, penta-, polypetala, en-, två-, tre-, fyr-,
+     fem-, mångbladig) on terä erilehtiensä mukaan.
+ _epäyhtinen_ (c. heteropetala, till en del fribladig, till en del
+     sambladig) on se terä, joka osiksi on eriosiksi yhdislehtinen.
+ _tasamukainen_ (c. aequalis, likformig) kun terän liuskoista, koloista
+     tahi lehdeistä toinen ei ole toistaan suurempi.
+ _epämukainen_ (c. inaequalis, olikformig), vastahakaan edellistä.
+ _suunnallinen_ (c. regularis, regelbunden) on itsekuki tasamukainen
+     terä ja epämukainenki terä, jos sen laidekolot tahi lehdet ovat
+     yhdenmuotoisia ja jossain suunnallisessa järjestyksessä välillään.
+ _epäsuuntainen_ (c. irregularis, oregelbunden), terä joka ei ole
+     suunnallinen.
+ _torvimainen_ (c. tubulosa, rörformig), yhdislehtinen terä, jonka
+     laide on melkein erottamaton torvesta.
+ _pikarimainen_ (c. cyathiformis l. cylindrico-campanulata, bägarlik),
+     vähän avarammalla laiteella, k. ed.
+ _suppilomainen_ (c. infundibuliformis, trattlik), vieläki väljempi
+     laiteelta k. ed.
+ _kellomainen_ (c. campanulata, klocklik), palleroinen (globosa,
+     klotrund).
+ _munapyöreä_ (c. urceolata l. ovata, omvändt bägarlik).
+ _hattumainen_ (c. hypocrateriformis, tallricksformig), kun terän torvi
+     on lyhyt ja laide litteämäisesti levennyt.
+ _ratasmainen_ (c. rotata, hjulformig), vielä lyhemmällä torvella
+     k. ed. ja erinäisemmillä lehdeillä.
+ _kielekkeinen_ (c. lingulata, tunglik), kun yhdislehtisen
+     epäsuuntaisen terän torvi on pillimäinen, siitä litteämäiseksi
+     laidepuoliskoksi muodostuva.
+ _huulimainen l. kaksihuulinen_ (c. labiata l. bilabiata, läppformig),
+     kahdella huuliksi (labia, läppar) verratulla liuskalla
+     vastatusten, toisella ylempänä toisella alempana.
+ _ylihuuli_ (labium superius, öfre läppen l. öfverläpp) on usein
+     kaarimaisesti kuverrettu (fornicatum, hvälfd) hedetten päälle ja
+     sanotaan silloin kypäriksi (galea, hjelm).
+ _alahuuli_ (labium inferius, nedre läppen l. underläpp).
+ _ammottava_ (corolla ringens, gapande), huulimainen terä siirottavilla
+     huulilla ja avonaisella nielulla.
+ _naamattava_ (c. personata, maskerad), kun alahuuli on kuverrettu
+     ylihuulta vasten niin että sen kautta torven nieluki tulee
+     suljetuksi (faux clausa, tillsluten).
+ _laki_ (palatum, gom), alahuulen ylihuulta vasten kuverrettu laita.
+ _ruusumainen_ (corolla rosacea, rosartad), suunnallinen terä viidellä
+     levytlapaisella, lyhytkantaisella erilehdellä renkaamaisessa
+     teräluotteessa verhon aukeamassa.
+ _yhdiskantainen l. malvamainen_ (c. malvacea, malvaartad),
+     suunnallinen viisilehtinen terä lyhyillä toinen toiseensa ja
+     heteisiin kiinni kasvettuneilla kannoilla.
+ _ristimäinen_ (c. cruciata, korsformig), suunnallinen nelilehtinen
+     terä selvästi erotetuilla kannoilla.
+ _neilikkämäinen_ (c. caryophyllacea, neglikeartad), suunnallinen
+     viisilehtinen terä pitkulaisilla kannoilla tuppimaisessa verhossa.
+ _huulikkeinen_ (c. labiosa, läpplik) ja _vastohuulikkeinen_ (inverse
+     labiosa, ovändt läpplik), epäsuuntaisista teristä viidellä
+     erilehdellä; vähän tavalliset.
+ _perhomainen l. hernekukkahinen_ (papilionacea, fjärillik l.
+     ärtblomma), viidellä epäyhtisellä terälehdellä, kolme päälläpuolen
+     erinäistä ja kaksi alempana yhteen kasvettunutta. Erinäisistä
+     lehdeistä sanotaan päälimmäistä, joka on toisia leveämpi,
+    _purjeeksi_ (vexillum, segel), sivulehtejä _siiviksi_ (alae,
+     vingar) ja kahta yhteen kasvanutta alimaista _venheeksi_ (carina,
+     köl), jonka sisässä heteet ovat ja joka on _kaksikantainen_
+     (biunguiculata). Välistä venhelehdet eivät olekkaan yhteen
+     kasvaneet, jossa tapauksessa niitä sanotaan _laitalehdeiksi_
+     (petala carinalia, kölblad) ja koko terää _perhottavaksi_
+     (subpapilionacea, nästan fjärillik).
+ _liljamainen_ (perigonium liliaceum, corolla liliacea l. flos
+     liliaceus, liljeartad blomkalk) on kupu kuudella suunnallisella
+     erilehdellä kahdessa kerrassa taikka kannoista yhdessä, jotka
+     yhtenänsä tekevät _kellomaisen, suppilomaisen, pallomaisen,
+     tähtimäisen_, tahi muun muotoisen kukan.
+ _epäsuuntainen_ (perig. orchideum, orchisartad) on kupu kuudella
+     epäsuuntaisella lehdellä kahdessa kerassa, joista sisäkerran
+     yhtä paljon erimuotoista lehteä sanotaan _huuleksi_ (labellum,
+     läpp), ja kaikkia toisia siitinten ympärillä olevia _kypäriksi_
+     (galea, hjelm). Tavallisesti on huulella myös _kannus_ (calcar,
+     sporre).
+ _heinäkukka_ (flos gramineus, gräsblomma) e.m. rukiilla, ohralla,
+     kauralla, heinäkasveilla.
+ _kale l. suojus-akana_ (gluma, yttre agnbetäckning), heinäkukan
+     _ulkosuojus_ (bractea). Kaleet ovat ylen harvoin yksittäin,
+     tavallisesti on niitä peräsukaan kaksi erisuurta kuperaa nirkkoa
+     _akanaa_ (valva, agn), jotka eivät suoraan peitä siittimiä. Kun
+     muutamat ovat kaleita verhoksi verranneet, niin siitä on niillä
+     nimensä _verhoakanat_ (valvulae calycinae, blomfoderskal), ja
+     vielä on niillä kolmantenaki nimityksenä _ulkoluomet_ (perianthium
+     externum, yttre blomhylle).
+ _helve l. kukka-akana_ (glumella, inre agnbetäckning), heinäkukan
+     _sisämäinen suojus_ (bracteola), jossa samoin on kaksi kuperaa
+     akanaista (valvula) peräkkäin siitinten ympärillä. Alimainen
+     niistä on aina isompi ja usein varustettu _vihneellä_ (arista,
+     agnborst), lähtevä helpeen selkäsuonesta. Helpeitä on muutamat
+     pitäneet heinäkukan teränä ja nimittäneet niitä _teräakanoiksi_
+     (valvulae corollinae, kronskal) tahi _sisäluomiksi_ (perianthium
+     internum, inre blomhylle). Myös on niitä ynnä sisällisten
+     siitintensä kanssa sanottu _heinäkukaksi_ (flosculus, gräsblomma),
+     ja mikäli niitä yksien kaleitten sisällä on enemmin eli vähemmin
+     sanotaan _heinätähkää_ (spicula, småax) _yksi-, kaksi-, ...
+     monikukkahiseksi_ (uni-, bi- ... multiflora, en-, två- ...
+     mångblommig).
+
+Vihneet lähtevät milloin tyveltä akanaa, milloin keskeltä, niskalta
+tahi päästä ja ovat sikäli _tyvivihneitä_ (arista basillaris, vid
+agnens basis), _selkävihne_ (ar. dorsalis, högre upp på agnens rygg),
+_niskavihne_ (ar. infraapicularis, under agnens topp), _latvavihne_
+(ar. terminalis l. apicularis, i sjelfva toppen af agnen), ja itsekuki
+vihne on miten milloinki _suora, polviva, kierteinen_ (tortilis,
+vriden), _ulottava_ (exserta, utskjutande), _tähkäsisäinen_ (inclusa,
+innesluten) j.n.e.
+
+ _vihneellinen_ (aristata, försedd med agnborst) ja _vihneetön_
+    (mutica l. exaristata, saknande agnborst).
+ _kauna l. teräakana_ (glumellula l. lodicula, kronfjäll), pari kolme
+     pienoista, läpikuultavaa akanaa siitinten juuressa; ovat
+     heinäkukkain teränaiheita, joita ei kuitenkaan kaikissa tavata.
+     Ennen arveltiin niitä _mesipiteiksi_ (nectarium, honingsgömme)
+     ja nimitettiin myös _mesivareiksi_ (squamae nectariferae,
+     honungsfjäll).
+ _sukainen kupu_ (perigonium setosum, borstlik blomkalk) ja kupusukaset
+     (setae perigoniales, blomkalksborster) kuuluvat heinäketten
+     selitykseen. Niillä tavallisesti on kuusi tahi useampaa
+     hapsimaista sukaa siitinten ympäri. Mitenkä nämät suat peittävät
+     tahi ei peitä siementä, sanotaan sitä _sukapeitteiseksi_ (setis
+     perigonii stipatum l. cinctum, omgifven af borster) tahi
+     _suattomaksi_ (nudum l. setis orbatum, saknande borster).
+ _pullakkomainen_ (perig. utriculare l. urceolatum, flasklik) on
+     heinäketten kupu, kun se kukkimisen jäljestä muuttuu _pullakon_
+     (utriculus) näköiseksi siemenkotiksi. Mesipiteeksi tahi verhoksi
+     arveltuna on seki ennen saanut toisen nimen _mesipullakko_
+     (nectarium urceolatum), tahi _verhopullakko_ (calyx utriculatus).
+ _lyhytaikuinen, menehtyvä_ (deciduus, senare affallande), _pysyvä_,
+     _kuihtuva_ (emarcidus l. marcescens, förvissnande) ovat terä ja
+     verho, mikäli varisevat jo kukkimisen alussa, heti jälkeen,
+     myöhemmin kukkimisen perästä taikka jo varrella kuihtuneina.
+ _siemenlatvainen_ (epigynus l. superus, fästad öfver frukten),
+     _siemenvartinen_ (amphigynus, fästad omkring frukten),
+     _siemenjuurinen_ (hypogynus l. inferus, fästad under frukten)
+     ovat terä ja kupu, mikäli lähtevät siemenen eli hedelmän päältä,
+     keskeltä tahi alta.
+ _kukanaihos_ (aestivatio l. praefloratio, blomfodrets och blomkronans
+     knoppläge) on _kukkasilmikossa_ (alabastrum, blomknopp) tavattava
+     kukan ensialku, joka samoin kuin lehtiaihoskin edellä saattaa olla
+     _paanuttu, poimuinen, vastakierteinen_, tahi:
+ _laitavierinen_ (aestivatio valvata, kantlagd), kun verhon tahi terän
+     lehtialut ovat laidoittain toisensa vieressä, ei limitysten.
+ _limikierteinen_ (ae. contorta, vriden), kun joka lehdenalku
+     laidallansa peittää vierellisen lehden, toiselta puolen itse
+     samoin peitetty.
+ _kurttuinen_ (ae. corrugativa, hopskrynklad), kun lehdenalut ovat
+     sekä pitkin että poikkipäin ilman järjestyksettä rypystyneet.
+     Itseä terälehteä tässä tilassa sanotaan kurtistuneeksi
+     (petalum corrugatum, sammanskrynklad i knoppen).
+ _purjepeitteinen_ (ae. vexillaris, segeltäckt), hernekukkain
+     lehtiaihos, jossa purje peittää siivet, siivet venheen.
+ _kypäripeitteinen_ (ae. galearis l. cochlearis, hjelmtäckt),
+     huulikukan lehtiaihos, jossa kaikki muut laideliuskat ovat
+     kypärin sisään kääriytyneet.
+ _hede_ (stamen, ståndare), kasvien urospuolinen siitin kolmella eri
+     osalla _palho, ponsi ja siitepöly_.
+ _palho_ (filamentum, sträng), heteen varsi eli ponnen alainen osa.
+     Välistä palhoa ei olekkaan ja silloin sanotaan pontta
+     _palhottomaksi_ (sessilis, oskaftad).
+ _rihmamainen ja oramainen_ palho.
+ _nuijamainen_ (f. clavatum, klubblik), liereä, paksulatvainen.
+ _leveäkantainen_ (f. basi dilatatum, plattadt vidgad nedtill) ja
+     _leveälatvainen_ (f. apice dilatatum, plattadt vidgad upptill),
+     ala- tahi ylipäästä levennyt.
+ _terämäinen_ (f. petaloideum, kronbladslik), leveä ylempätä.
+ _kaksipäinen_ (f. bifurcum, gaffellikt tvåklufven) ja _kolmipäinen_
+     (f. tricuspidatum, treuddig) on palho harvoin, eikä silloinkaan
+     kun ainoastaan yhdessä päässä ponnellinen.
+ _ponsi_ (anthera, knapp), heteen päässä oleva, usein nyhämäinen eri
+     osa, jossa siitepöly valmistuu. Sillä on tavallisesti kaksi
+     pikkuruista _lokeroa_ (loculamentum, rum), joiden välissä on
+     _ponsikalvo_ (connecticulum, knappband). Tavallista pontta
+     sentähden sanotaanki _kaksilokeroiseksi_ (a. bilocularis,
+     tvårummig). Ylen harvassa tavataan _yksilokeroisia_ (a.
+     unilocularis, enrummig) ja vieläki harvemmassa _nelilokeroisia_
+     (a. quadrilocularis, fyrrummig) ponsia.
+ _sivuluomainen_ (a. lateraliter dehiscens, öppnande sig på sidan) on
+     se ponsi, joka avauu ja laskee siitepölynsä sivusta tahi
+     _sivuluomasta_ (rima, längdöppning) ulos. Sen se tekee milloin
+     _ulospäin_ (extrorsum, utåt), milloin _sisäänpäin_ (introrsum,
+     inåt).
+ _latvaluomainen_ (a. apice dehiscens, öppnande sig i spetsen), kun
+     ponsi avauu ja luopi siitepölynsä päästä joko poikkitelaisesta
+     halkeamasta tahi yhdestä eli useammasta reiästä.
+ _poikkitelainen_ (a. horizontalis l. incumbens, tvärliggande) on
+     ponsi, kun keskikohdasta on poikkipuolin palhon päässä kiinni,
+     ja silloin on se usein myös _keikkuva_ (a. versatilis rörlig).
+     Muuten saattaa ponsi olla _pystönäinen_ ja _kallas_.
+ _kaksisarvinen_ (a. bicornis, tvåhornig) ja _kaksipäinen_
+     (a. bicuspidata, tvåuddig) on ponsi, kun sillä on kaksi sarven
+     tahi tutkaimen muotoista erinäistä _lisäkettä_ (appendix, bihang).
+ _siiteponsinen_ (stamen fertile l. perfectum, fruktbar) on hede
+     täysinäisellä, siitepölyisellä ponnella.
+ _joutoponsinen_ (st. sterile l. imperfectum, ofruktbar), se hede jonka
+     ponsi ei tee siitepölyä.
+ _vajaponsinen_ (st. abortivum l. castratum, felslagen), hede jolla
+     pontta ei ole ollenkaan.
+ _siitepöly_ (pollen, frömjöl) on hienukkaisia pölähtäviä rakkoja n.k.
+     _siitehiukkoja_ (grana pollinis, frömjölskorn), joiden sisässä on
+     _siitinneste_ (fovilla, befruktningsvätska).
+ _pohjus_ (torus), hedetten tahi hedetten ja terän aluspaikka, josta ne
+     lähtevät. Vaillinaisissa kukissa on se ainoastaan _hedepohjus_
+     (ståndarfäste), täysinäisissä myös teräpohjus (kronfäste).
+ _verhovarainen_ (sammanväxt med blomfodret), kun pohjus on yhteen
+     kasvettunut verhon kanssa, _verhoheteisten_ (calyciflorae) kasvien
+     jaksossa.
+ _itsevarainen_ (fri) on pohjus, joka ei ole yhdistyksessä verhon eikä
+     terän kanssa _pohjaheteisissä_ (thalamiflorae) kasveissa.
+ _terävavainen_ (sammanväxt med blomkronan), kun pohjus on yhdessä
+     terän kanssa, teräheteisissä (corolliflorae).
+ _siemenlatvainen_ (stamen epigynum, fästad ofvanpå fruktämnet)
+     on hede, joka lähtee siemenen päältä.
+ _siemenvartinen_ (st. amphigynum, fästad omkring fruktämnet),
+     keskipaikalta siementä lähtevä hede.
+ _siemenympärinen_ (st. perigynum); siemenympärisiksi sanotaan heteitä,
+     kun ovat kiinni verhossa siemenen ympärillä.
+ _siemenpohjainen_ (st. hypogynum, fästad under fruktämnet), siemenen
+     alta lähtevä hede.
+ _määrälukuisia_ (stamina definita, till antalet bestämda) ovat heteet,
+     joita aina on yhtä monta yhdessä lajissa, eikä yli kahdenkymmenen.
+ _epälukuisia_ (st. indefinita, till antalet obestämda), kun heteitä on
+     yli kahdenkymmenen.
+ _yksirivisiä_ (st. uniserialia, fästade i en rad), kun kaikki heteet
+     lähtevät yhdessä rivissä.
+ _kaksi-, kolmi-, monirivisiä_ (st. bi-, tri-, multiserialia, fästade i
+     två, tre, flere rader), kun heteet useammissa riveissä lähtevät
+     pohjuksestansa.
+ _erinäisiä_ (st. libera, sinsemellan fria), kun sekä palhollaan että
+     ponnellaan heteet ovat erin toisistaan.
+ _yhtyneitä_ (st. connata, sammanväxta), kun heteet jollain tavalla
+     ovat yhdistyksessä keskenänsä.
+ _yhdispalhoisia_ (st. filamentis connata, sammanväxta med strängarne),
+     yhteen kasvaneilla palhoilla.
+ _yksi-, kaksi-, kolmi-, monikuntaisia_ (st. mon-, di-, tri-,
+     polyadelpha, sammanväxta med strängarne i en, två, tre, flere
+     stammar), kun yhdispalhoiset heteet ovat yhdessä, kahdessa,
+     kolmessa tahi useammassa kimpussa.
+ _yhdispontisia_ (st. antheris connata, sammanväxta med knapparne),
+     kun hedetten ponnet ovat yhteen kasvettuneet kuin torveksi,
+     joka aukeaa ja luopi siitepölyn sisäänpäin.
+ _liitepontisia_ (st. antheris cohaerentia, sammanhängande med
+     knapparne), kun ponnet ovat kiinni toisissansa ilman yhteen
+     kasvamatta.
+ _tasapitkiä_ (st. aequalia, lika höga) ovat heteet, kun toinen ei ole
+     toistaan pidempi, muuten _eripitkiä_ (inaequalia, olika höga).
+ _kaksivaltiaita_ (st. didynama, tvåväldige), kun kukan neljästä
+     heteestä kaksi on pidempää, kaksi lyhempää.
+ _kolmivaltiaita_ (st. tridynama, treväldige), kun kuudesta heteestä
+     kolme on pidempää, kolme lyhempää.
+ _nelivaltiaita_ (st. tetradynama, fyrväldige), kun kuudesta heteestä
+     neljä on pidempää, kaksi lyhempää.
+ _viisivaltiaita_ (st. pentadynama, femväldige), kun kymmenestä
+     heteestä viisi on pidempää, viisi lyhempää.
+ _parivaltiaita_ (st. diplodidynama, dubbelt tvåväldige), kun kukan
+     viidestä heteestä kaksi ylimäistä ovat pisimmät, kaksi keskimäistä
+     vähä lyhemmät ja alimainen yksinäinen hede lyhin.
+ _torvisisäisiä_ (st. inclusa, inneflutna) ovat heteet kun eivät ulotu
+     terän torvesta esille, muuten ulottavia.
+ _emi_ (pistillum, pistill) kasvien naaraspuolinen siitin hedetten ja
+     koko kukan keskellä. Sillä on kolme eriosaa: _hedelmys, vartalo_
+     ja _luotti_.
+ _sikiäinen_ (germen, fruktämne) on emin alusosa, joka sitte
+     siittyneenä valmistuu hedelmäksi. Siinä on päälimmäisnä yksi eli
+     useampaa _sikiäislehteä_ (carpophyllum, fruktblad) ja niiden
+     sisällä _siemenaiheet_ (ovula, obefruktade frön) _napasuonestaan_
+     (funiculus umbilicaris, frösträng) _istukassa_ (placenta,
+     fröfäste) kiinni.
+ _kukanalainen_ (germen inferum, sittande under blomman) on sikiäinen
+     _siemenlatvaisessa_ kukassa, ja _kukanpäälinen_ (superum, sittande
+     öfver blomman) _siemenjuurisissa_.
+ _vartalo_ (stylus, stift) emin keskimäinen osa sikiäisen ja luotin
+     välillä.
+ _latvaperäinen_ (stylus terminalis, utgående från spetsen af
+     fruktämnet) sikiäisen päästä lähtevä vartalo.
+ _sivuperäinen_ (st. lateralis, utgående från sidan af fruktämnet) ja
+     pohjaperäinen (st. basilaris, utgående från basen af fruktämnet)
+     on vartalo, kun lähtee sikiäisen sivulta tahi pohjasta.
+ _luotti_ (stigma, märke), emin latvaosa, joka vastaan ottaa
+     auvenneesta ponnesta lähtevän siitepölyn.
+ _hapsimainen_ (stigma filiforme, trådlik) on heinäkukan luotti, ei
+     merkittävästi erouva sen pitkulaisesta vartalosta, jonka pää,
+     s.o. luotti, ja usein tyvikin on sekasortoisesti pehmytkarvainen
+     ja kukan latvaa ulompana.
+ _hahtuvamainen_ (st. aspergilliforme, penselformig), heinäkukan
+     luotti tiheillä pitkillä karvoilla ja ulottava kukan keskipaikalta
+     tahi niskasta, muuten samallainen, kun edellinenki.
+ _töyhtöinen_ (st. penicellatum l. penicelliforme, pensellik),
+     heinäkukan luotti latvatöyhdöllä.
+ _sulkamainen_ (st. plumosum, fjäderlik), vartaloton tahi lyhytvartinen
+     heinäkukan luotti, lyhyillä yksi- tahi kaksirivisillä karvoilla,
+     ulottava kukan alapäästä tahi kokonaan ulottamaton.
+ _palleroinen, ponsimainen_ (knapplik) _pallopuoliskoinen_ (st.
+     hemisphaericum, halfrund), _nuijamainen, tuuttimainen_,
+     _munapyöreä_, ovat ennen selitettyjä tahi itseselviä luotin
+     erotussanoja.
+ _läpipäinen_ (st. perforatum, genomborrad) on luotti epäselvällä
+     aukolla päässänsä.
+ _tahkulainen_ (st. lamellatum, skiflik), yhdeksi tahi useammaksi
+     tahkulaksi (lamella, skifva) litteynyt luotti, ja sikäli _yksi-,
+     kaksitahkulainen_ j.n.e. (st. uni-, bilamellatum etc, en-,
+     tvåskifvig o.s.v.)
+ _ristimäinen_ (st. cruciatum, korslik), ristimäisesti neljäksi
+     jakaunut luotti. Sanotaan myös _nelihalkoiseksi_,
+     _nelilohkoiseksi_ j.n.e.
+ _sädejakoinen_ (st. radiatum, strållik), vartaloton, tähtimäinen
+     luotti kohdastaan sikiäisen päässä.
+ _latvaperäinen ja sivuperäinen_ on luotti, mikäli istuu vartalon
+     päässä tahi kyljessä.
+ _johteinen_ on luotti joka juoksee alaspäin kahdenpuolen vartaloa.
+ _vartaloton_ (st. sessile, oskaftad), kohdastaan sikiäisen latvasta
+     lähtevä luotti.
+ _vajounut_ (st. immersum, insänkt), sikiäisen sisään painunut
+     vartaloton luotti.
+ _siitintukku_ (androstylium, könpelare), kun heteen palhot ovat emin
+     vartalon kanssa kasvettuneet yhteen tukkuun, jossa sekä ponnet
+     että luotti istuvat.
+ _siitinlakka_ (stylostegium l. gynostegium, slifttäcke), kun ponnet
+     ovat kiinni kasvettuneet kukan kahteen vartaloon, ja levennyt
+     kilpimäinen luotti peittää ne.
+
+
+
+
+Hedelmästä.
+
+
+ _Hedelmä_ (fructus, frukt), siittyneestä sikiäisestä valmistunut
+     siemenholho, jolla on kolme eriosaa: _kota, istukka ja siemenet_.
+ _epähedelmä_ (fructus spurius, falsk l. oäkta frukt), johon on yhteen
+     kasvettunut hedelmään kuulumatonta lisäkettä lähellisistä kukka-
+     tahi pohjus-osista. Semmoinen epähedelmä tahi epämarja (bacca
+     spuria, oäkta bär) on e.m. mansikka. Sen mehevä aine ei ole muuta
+     kun tursistunutta pohjusta, johon varsinaiset hedelmät ovat
+     vajouneet.
+ _siemenkota l. kota_ (pericarpium, fröhus l. frögömme),
+     sikiäislehdeistä kasvettunut ja muodostunut kuori siementen
+     suojaksi. Eri lehtien yhdyntäpaikkaa sanotaan _liitteeksi_
+     (sutura, söm l. fog) ja itsiä yhtyneitä lehtejä _laidoiksi_
+     (valvae l. valvulae, skal l. sidoväggar), joiden mukaan kota on
+     _yksi-, kaksi-, kolmi- ... monilaitainen_ (uni-, bi-, tri ...
+     multivalve, en-, två-, tre- ... mångskalig l. -väggig).
+ _pesä_ (loculamentum, rum); pesiksi sanotaan siemenlokeroita.
+     Ne ovat syntyneet sädejakoisista sikiäislehdeistä, joiden reunat
+     ovat vastatusten kiertyneet ja niin yhteen kasvettuneet.
+     Hedelmät semmoisten sikiäislehtien mukaan ovat _kaksi-, kolmi-,
+     nelipesäisiä_ j.n.e. (bi-, tri-, quadriloculares etc., två-,
+     tre-, fyrrummiga o.s.v.), ja itsekukin eri pesä saattaa olla joko
+     _siemeninen_ (loculamentum fertile, fruktbar) tahi _siemenetön
+     l. tyhjä_ (sterile, tom).
+ _välikelmu_ (dissepimentum, skiljevägg), pesäin erotuskalvo eli
+     välikuori, sikiäislehtien sisään kiertyneistä laidoista
+     muodostunut.
+ _istukka_ (placenta, trophospermium, spermophorum, sporophorum etc.,
+     fröfäste) se osa, jossa siemenet ovat kiinni istumassa. Se on
+     joko _keski-istukka_ (pl. centralis, i midten af frögömmet) tahi
+     _laita-istukka_ (pl. valvaris, på sidorna af frögömmets valvler).
+ _itsenäinen_ (pl. libera, pl. centralis libera l. columella, fri) on
+     istukka joka erin laidoista on keskellä kotaa.
+ _kelmusäteinen_ (pl. centralis radians l. dissepimentalis, strålvis
+     delad i utskott) on keski-istukka, kun siitä yltä ympärinsä lähtee
+     välikelmuja laitoihin. _Keskipieleksi_ (columna l. axis centralis)
+     sanotaan itseä runkoa.
+ _laitavierinen_ (pl. valvaris haud dissepimentalis, fastväxt vid
+     valvlerna utan utskott), kun istukka on suorastaan kodan laidassa.
+ _keskilaitainen_ (pl. parietalis, fästad på midten af frögömmets
+     valvler), keskelle laitaa kiinnitetty istukka.
+ _liiteperäinen_ (pl. marginalis l. suturalis, fästad längs efter
+     valvlernas kanter vid frögömmets fogar), pitkin liitteitä
+     kinnitetty istukka.
+ _laitakelmuinen_ (pl. valvaris dissepimentalis, utväxt uti skifvor
+     eller strålar från valvlerna), kun laidasta lähtee sisään päin
+     säteisiä välikelmuja, joissa siemenistukat ovat.
+ _keskilaitaiskelmuinen_ (pl. parietalis radians, från midten af
+     valvlernas väggar utväxt i strålar mot centern), kun vasta
+     mainitut kelmut lähtevät keskilaidoilta.
+ _väliseinäinen_ (pl. intervalvularis, mellan de motsatta
+     frögömmevalvlernas kanter utväxt till ett skiljeväggsformigt
+     fröfäste), kun kahden vastakkaisen laidan liitteistä kaksi
+     sikiäislehteä ovat sisään päin halki kodan kasvaneet väliseinän
+     tapaiseksi kelmuksi, jossa siemenistukat ovat. Toisinaan on tämä
+     väliseinä keskeltä halki jäänyt, jolloin sitä sanotaan
+     _rakoväliseksi_ (pl. fenestrata).
+ _yksikotainen_ (fructus holocarpus, enkelgömmig), hedelmä jolla ei
+     ole useampaa erinäistä tahi yhteen kasvettunutta kotaa, vaan
+     ainoastaan yksi komero (paracarpum), syntynyt sikiäislehtien
+     vieretysten yhteen kasvettumisesta. Komerossa kuitenki taitaa
+     olla istukasta lähteneitä sädejakoisia, välistä muitaki,
+     välikelmuja, jotka tekevät sen pesitteleväksi (sublocularis,
+     nästan flerrummig) tahi _monipesäiseksi_.
+ _keskisiemenisesti yksikotainen_ (fr. holocarpus centrispermus,
+     enkelgömmig med centralt fröfäste, centralfröig), yksikotainen
+     hedelmä keski-istukalla. Jos istukka on itsenäinen, niin hedelmä
+     on yksipesäinen; kelmusäteisenä istukan ollessa, hedelmä tekeyy
+     monipesäiseksi.
+ _laitasiemenisesti yksikotainen_ (fr. holocarpus pleurospermus,
+     enkelgömmig och sidofröig l. med sidofästade frön), yksikotainen
+     hedelmä laita-istukalla, joka istukka miten milloinki saattaa
+     olla joko laitavierinen, keskilaitainen, liiteperäinen,
+     laitakelmuinen tahi väliseinäinen ja hedelmä sikäli yksipesäinen,
+     pesittelevä tahi monipesäinen.
+ _erikotainen_ (fr. schizocarpus, skiljdgömmig), kun hedelmässä on
+     useampaa eri _hedelmystä_ (carpellum, carpidium, småfrukt l.
+     karpell), jotka itsekukin ovat syntyneet istukan ympäri
+     käpristyneestä ja reunoistaan vastatusten yhteen kasvettuneesta
+     sikiäislehdestä. Kun sikiäislehdet aina ovat sisään päin sillä
+     tavoin kiertyneet ja yhtyneet, niin ne siementen valmistuttua
+     sisään päin aukeavatki. Tavallisesti hedelmykset erikotaisessa
+     hedelmässä ovat kierteisesti ja erin toisistaan, mutta jos ovat
+     kiehkuraisesti, niin välistä kasvavat yhteenki toinen toisihinsa,
+     kuitenki niin löyhästi, että hedelmän valmistuessa jälleen
+     eriävät.
+ _monikotainen_ (fr. syncarpus, flergömmig), useammasta kiehkuraisesta
+     hedelmyksestä eriämättömästi yhteen kasvettunut hedelmä.
+ _yhdiskotainen_ (fr. gamocarpus, samgömmig), monikotainen hedelmä,
+     jonka pohjus on lihavaksi, nahkeaksi tahi puutavaksi peitteeksi
+     hedelmän päälle kasvettunut. Sen siemenet tavallisesti ovat
+     _rippuvia_ (semina pendula, hängande).
+ _yksinäinen_ (fr. simplex, enkel) on itsekukin yksikotainen hedelmä.
+ _moniosainen_ (fr. compositus, sammansatt), eri-, moni-, tahi
+     yhdiskotainen hedelmä.
+ _kotelo_ (capsula, kapsel), monisiemeninen ja monilaitainen siemenkota
+     eli hedelmä, syntynyt kiehkuraisista vierettäin yhteen
+     liittyneistä sikiäislehdeistä. Kotelo ennenkun itse putoaa maahan
+     luopi siemenensä mikä milläki tavalla _aukeamasta_ (dehiscentia,
+     öppnande), kuin kohta tarkemmin selitetään.
+ _liiteluomainen_ (capsula valvis dehiscens, uppspringande längs efter
+     hela sömmarne af dess valvler från kapselns ena ända till den
+     andra), kun kotelon laidat liitteistään lähtevät erin toisistaan
+     joko latvasta tyveen tahi tyvestä latvaan päin.
+ _rakoluomainen_ (c. rimis dehiscens, uppspringande med remnor), kun
+     ilmautuu erinäisiä rakoja kotelon liitteisiin keskikohdalta
+     molemmin puolin auveten. Laidat muuten jäävät toisiinsa kiinni.
+ _hammasluomainen_ (c. dentibus dehiscens, uppspringande med tänder),
+     kun kotelon laidat vaan latvasta eriävät ei ainoastaan
+     liitepaikoista vaan keskisuontaki myöten.
+ _läpiluomainen_ (c. poris dehiscens, uppspringande med små runda
+     öppningar eller porer), kun kotelo saapi pieniä pyöreitä reikiä
+     eli huokoja latvaan tahi sivuihin, joista siemenet lähtevät.
+ _kansiluomainen_ (c. operculo dehiscens, uppspringande med lock),
+     kun kotelo latvapäästä puhkeaa poikkitelaisesti niin, että
+     päälimäinen osa, kuin kantena, putoaa pois. Semmoista koteloa
+     sanotaan poikkipiirtoiseksi (c. circumscissa, kringskuren).
+ _sisäluomainen_ (c. septicida, uppspringande längs efter väggarne),
+     kun monipesäisen kotelon välikelmut eriävät kahdeksi, jolla
+     tavoin ne yhteen kasvettuneet hedelmykset ensin lähtevät
+     toisistaan irti ja vasta sitte puhkeavat sisään päin. On
+     muistettava, että välikelmut alkusin olivat kahdesta
+     sikiäislehdestä yhteen kasvettuneet, jonka tähden ne nyt
+     taitavatki kahdeksi eritä. Hedelmykset välistä puhkeavat jo
+     pudottuansa.
+ _laitaluomainen_ (c. loculicida, uppspringande längs efter valvlernas
+     midt), kun monipesäisen kotelon laidat puhkeavat keskisuonesta
+     ulkopuolitse.
+ _laitalähtöinen_ (c. septifraga, uppspringande genom lösryckning från
+     skiljeväggarne), kun kotelon laidat eriävät keskipieleen
+     kiinnijäävistä välikelmuista ja putoavat maahan.
+ _tuppilo_ (conceptaculum, folliculus, fröhölsa l. baljkapsel),
+     yksilaitainen ja yksipesäinen, pitkin sivua puhkeava pöyheämäinen
+     siemenkota itsenäisellä istukalla.
+ _tuppihedelmys_ (carpellum capsulare, kapsellik karpell), erikotaisen
+     hedelmän kukin erinäinen osa muodostunut yhdestä sikiäislehdestä
+     ja puhkeava sisäpuolelta liitteestä yksi- eli useampi-rivisillä
+     siemenillä kodan laidassa.
+ _pähkylähedelmys_ (carpellum nucamentaceum, nötartad l. nötlik
+     karpell), yksisiemeninen, kovakuorinen, puhkeamatta putoava
+     kierteisen erikotaisen hedelmän erinäinen osa.
+ _otahedelmys_ (carp. rostratum, försedd med spröt), kun emi on
+     hedelmyksen päässä jälillä. _Odaksi_ (rostrum, spröt) ylettäin
+     sanotaan oramaista tahi neulamaista, suoraa sekä väärää lisäkettä
+     jonkun osan päässä ja _odattomaksi_ (erostris l. muticus, saknande
+     spröt) sitä osaa, jolla ei ole sellaista lisäkettä.
+ _hillukka_ (acinus, stenbär l. småbär), pähkylähedelmä mehevällä
+     päälyställä. Jos hillukoita on useampaa yhteen kasvettunut,
+     sanotaan hedelmää _yhdysmarjaksi_ (bacca composita, sammansatt
+     bär), e.m. vaarain.
+ _palko_ (legumen, fröbalja l. ärtbalja), yksipesäinen, kaksilaitainen
+     kota siemenistukalla ylimäisessä liitteessä, e.m. herneenpalko.
+     Se puhkeaa molemmista liitteistänsä ja on toisinaan pesäjakoinen
+     (subbilocularis, nästan tvårummig), kun alimainen liite on
+     väliseinän tapaisesti sisään kääntynyt.
+ _kiekurainen_ (leg. cochleatum, snäckvriden), kahteen eli useampaan
+     kiekuraan kiertynyt palko. Muut palon erotussanat ovat ilmanki
+     tavallisia jo ennestään tuttuja.
+ _nivelpalko_ (lomentum, ledbalja), jolla tavallisesti joka siemenen
+     välillä on nivel tahi _kannas_ (isthmus, vägg) ja joka ei puhkea
+     liitteistä, vaan katkeaa nivelistä poikki.
+ _litu l. litukka_ (siliqua, skida), kaksilaitainen ja tavallisesti
+     kaksipesäinen pitkä kota, jolla on siemenet kahdessa rivissä
+     vastakkain pitkin väliseinän tapaisen siemenistukan reunoja, ja
+     jonka liitteet puhkeavat tyvestä latvaan päin. Auvettuansa laidat
+     putoavat pois ja ohut kalvomainen istukka jääpi jälille
+     tavallisesti emillä päässänsä.
+ _lisko_ (silicula, kort skida), yhtä pitkä kun leveäki, tahi ei
+     kuitenkaan paljoa pitempi litu. Se on _leveävälinen_ (silic.
+     latisepta, med bred skiljevägg), kun väliseinä on yhtä leveä
+     palon kanssa, ja _kaitavälinen_ (sil. angustisepta, med smal
+     skiljevägg), kun väliseinä käypi aivan poikkiteloin palon
+     leveyden suuntaa. Edellisessä ovat laidat litteitä ja leveitä,
+     jälkimäisessä ne ovat venheemäisiä.
+ _pähkylälisko_ (nucamentum l. silicula nucamentacea, nötskida),
+     yksisiemeninen pyöreä, litteähkä, litteä tahi ohut lisko, joka
+     putoaa aukeamatta. Leveäksi litistyneenä sitä myös sanotaan
+     _siipiliskoksi_ (sil. samariformis l. alata, vingfruktslik).
+ _nivellitukka_ (siliqua nucamentacea articulata, ledad nötskida l.
+     ledbaljslik skida), kun litukka samoin kuin nivelpalkoki on
+     jakaunut yksisiemenisiin pesiin, jotka kukin aukeamatta putoavat.
+ _marja_ (bacca, bär) itsekukin aukeamatta putoava hedelmä, jonka
+     siemenet ovat peitetyt mehevällä, tursealla aineella, ja istukat
+     sekä välikelmut pehmeänlaisia, e.m. mustikka, karpalo, viinamarja.
+ _Marjamaiseksi_ (fructus baccatus, bärlik) sanotaan erilaisia hedelmiä
+     pehmeällä, mehevällä sisusaineella.
+ _kurkka_ (pepo, gurkfrukt), marjamainen hedelmä 3-5:llä sisään
+     kääntyneellä, yhteen kasvettuneella sikiäislehdellä ja useammalla
+     laita-istukkaisella siemenellä, peitetyt mehevällä turpealla
+     aineella. Muuta erotusta kurkan ja marjan välillä tuskin löytynee,
+     kun se, että kurkka on laita-istukkaisilla, marja tavallisesti
+     keski-istukkaisilla siemenillä.
+ _omena_ (pomum, äpple) aukeamatta putoava monisiemeninen ja
+     monipesäinen kota, jonka meheväksi päälysaineeksi verho kukkimisen
+     jälkeen on turpunut ja kiinni kasvettunut. Välikelmut,
+     tavallisesti ohuita, kalvomaisia tahi nahkeita, muutamissa
+     lajeissa kasvavat kovaksi kuin luu, jolloin sen siementä sanotaan
+     _kivekseksi_ (pyrene) ja hedelmää niiden mukaan _yksi-, kaksi-,
+     kolmi-, neli-, viisi-, monikiveksiseksi_ (mono-, di-, tri-,
+     tetra-, penta-, plejopyrenus). Muuten omena ulkomuotoansa on
+     _palleroinen, pitkulainen, perunamainen_ (pom. pyriforme,
+     päronlik), _napaniekka_ (p. umbilicatum, naflad) j.n.e.
+ _kivi- eli luumarja_ (drupa, stenfrukt), aukeamatta putoava luutava
+     kota mehevällä turpealla päälysaineella, enimmästi yhdellä, mutta
+     välistä useammallaki pesällä ja siemenellä. Itseä kodan kuorta
+     sanotaan _luuksi_ (putamen, sten) ja sen sisässä olevaa siementä
+     _tumaksi_ eli _sydämmeksi_ (nucleus, kärna). Päälys muutamissa
+     lajeissa on nahkea tahi kuivankälpeä, välistä suoninenki.
+     Luumarjoja ovat e.m. kirsin ja tuomen marjat.
+ _pähkinä_ (nux, nöt), aukeamatta putoava luukuorinen hedelmä
+     tavallisesti yhdellä täyteläisellä siemenellä, e.m. pähkinäpuussa.
+     Tammen ja erästen muiden puiden nahkeakuorista pähkinää sanotaan
+     _terhoksi_ (glans, ollon). Erikotaisen hedelmän pähkinöitä
+     sanotaan, miten jo edellä osotettiin, pähkylöiksi.
+ _siipisiemen_ (samara l. semen alatum, vingfrukt), aukeamatta putoava,
+     kälpeä, rutistunut, yksi- tahi harvasiemeninen hedelmä, jonka kota
+     on yhdeltä taikka joka puolelta laajennut ja ohennut kalvomaiseksi
+     tahi lehtimäisiksi lisäkkeiksi, e.m. vahteressa, saarnessa,
+     jalavassa.
+ _jyväsiemen_ (caryopsis, hinnfrukt), kuivankälpeä, yksisiemeninen,
+     sileä, taikka pitkin sisäpuolta uurtoinen hedelmä, jonka ohut,
+     kalvomainen, sikiäislehdestä muodostunut kuori kiinteästi peittää
+     itsen siemenen, e.m. rukiissa, ohrassa, kaurassa ja heinäkasveissa
+     yhteisesti.
+ _jyväke l. kuorusjyvä_ (achenium, skalfrukt), kuivankälpeä yksi- tahi
+     harvasiemeninen hedelmä yhteen kasvettuneella verholla kuorena,
+     e.m. ohdakkeessa, putkessa, kuminassa.
+ _kehäpäinen_ (achenium coronatum, fructus coronatus, semen coronatum
+     l. sem. marginatum, försedd med frökrona), on jyväke, kun sen
+     latvapäähän on yhteen kasvettuneesta verhosta jäänyt pieni
+     ympyräinen palle eli _kehä_ (corona, rand l. frökrona).
+ _haivenpäinen_ (achen. papposum, fructus papposus l. semen papposum,
+     försedd med fruktfjun), kun verhokuori jyväkkeen latvasta jakauu
+     hienoiksi haiveniksi (pappus, fruktfjun l. fröfjun).
+ _paljaspäinen_ (achen. calvum l. semen calvum, naken), kun verho on
+     niin jyväkettä myöten kasvettunut, että päässä ei ole kehää eikä
+     haivenia.
+ _varreton_ (pappus sessilis, oskaftad), on haiven, joka ei millään
+     lailla haarau, _varrellinen_ (stipitatus, skaftad), kun tyveltä
+     yhdessä ylempänä haarauu; _vareinen, vihneinen l. kovasukainen_
+     (aristatus, styfborstig), _pehmytsukainen_ (setiformis,
+     mjukborstig), _hapsimainen, sulkajakoinen_ (plumosus, fjäderlik),
+     _yksi-, kaksi-, kolmi-, monikehäinen_ (uni-, bi-, tri-,
+     multiserialis, en-, två-, tre-, flerradig), kun on yhdessä
+     kehässä, tahi useammassa sisätysten, _lähtevä_ (deciduus, snart
+     affallande), kun pian lähtee jyväkkeestä ja _pysyvä_, kun pysyy
+     vielä varisneessaki jyväkkeessä.
+ _kaksoisjyväke_ (diachenium, achenium bipartibile, polachenium,
+     cremocarpium, dubbel skalfrukt), sarjakukkaisien verhokuorinen
+     jyväke, joka valmistuessa halkeaa kahdeksi jyväpuolikkaaksi
+     (mericarpium, carpidium, carpellum, semen, delfrukt) yhdellä
+     latvaan asti halkeavalla _istukalla_ (columna l. carpophorum).
+ _liite_ (commissura, fröfog), puolikasten yhdistyspaikka.
+ _maha_ (latusculum, insida), liitesivu.
+ _selkä_ (dorsum, rygg), ulkopuolinen sivu.
+ _harju_ (costa l. jugum, ås), korkeampi pitkin selkää päästä päähän
+     kulkeva naarmu. Harjuja on tavallisesti viisi kummallaki
+     puolikkaalla, nimittäin _keskiharju_ (costa centralis, midtås),
+     kaksi _väliharjua_ (costa intermedia, mellanås) ja kaksi
+     _sivuharjua_ (c. lateralis, sidoås), jotka viimeiset saattavat
+     olla joko _kulmaharjuja_ (costae marginales, kantåsar) taikka
+     _vieriharjuja_ (c. intramarginales) kulman vieressä. Välistä on
+     näiden _emäharjujen_ (juga primaria) välissä toisia pienempiä
+     _väliharjuja_ (juga secundaria), jotka arvellaan olevan jäännöksiä
+     sen kuoreksi kasvettuneen verholehden keskisuonesta, kun emäharjut
+     ovat eri lehtien liitepaikkoihin ilmauneet. Harjut välistä ovat
+     _piikkisukaisia_ ja välistä ovat ne levenneet ohuiksi
+     lehtimäisiksi kalvoiksi, _siipiharjuiksi_ (c. alatae, vingade).
+     Kun harjua ei tunnu ollenkaan sanotaan jyväpuolikasta _sileäksi_
+     eli _harjuttomaksi_ (mericarp. ecostatum l. ejugatum).
+ _vako_ (vallecula, åsdäld), kahden harjun välipaikka.
+ _litteämahainen_ (orthosperma) on se sarjakasvi, jonka
+     jyväpuolikkailla on litteä, tasainen maha.
+ _uurtomahainen_ (campylosperma), sarjakasvi, jonka jyväpuolikas
+     mahasivulta on pitkin uurrettu (latusculum longitudinaliter
+     sulcatum, längs efter fårad).
+ _onsimahainen_ (coelosperma), kun sarjakasvin maha on onteva (latusc.
+     saccato-concavum, säcklikt urhålkad).
+ _öljysuoni_ (vitta, oljerand), musta, päältä päin usein näkymätön
+     juova jyväpuolikkaassa kulkeva pitkin vaon pohjaa, sisältävä eri
+     makuista ja hajuista haihtoöljyä. Välistä on useampia öljysuonia
+     yhdessä vaossa, jonka jälkeen vakoa sanotaan _yksi-, kaksi-,
+     kolmi-, monisuoniseksi_ (uni-, bi-, tri-, multivittata). Toisinaan
+     taas ei olekkaan öljysuonta s.o. vako on _öljysuoneton_ (vallecula
+     evittata).
+ _siemen_ (semen, frö), se hedelmän osa, joka sikiyneestä
+     siemenaiheesta on valmistunut uutta samanlaista kasvia kantamaan.
+     Sillä on kaksi eri osaa: _sydän_ ja _kuori_.
+ _kuori_ (integumentum, omklädnad) jakaaupi kahteen osaan, jotka ovat
+     _pinta_ (testa l. membrana externa, yttre skalet) tummempi
+     näköänsä, ja _aluskuori_ (tunica, tegmen l. membrana interior,
+     kärnhud), pinnan alla ja sydämmen ympärillä oleva vaalea
+     kuorikalvo. Näiden välillä tavataan toisinaan erinäistä ainetta,
+     _välikerta_ (mesospermium, mellanlager), ja muutamat luulevat
+     pinnassakin olevan kaksi kuorikertaa, varsinaisen pinnan ja sen
+     päällä _keden_ (epidermis, öfverhud).
+ _paljas_ (semen nudum, naken); paljaaksi on yksinäistä siementä
+     kutsuttu, kun sen kota on niin likinäisesti siihen yhdistynyt,
+     että on kuin kuorena sen päällä.
+ _kehrämäinen_ (s. discoideum, kakformig) on siemen pyöreänä ja
+     litteänä, _virnamainen_ (lenticulare, linsformig) pyöreänä tahi
+     soikeana ja litteähkänä, _pallistettu_ (marginatum, kantad), kun
+     sillä on erilainen viiru ympärillään, _nöhtämäinen_ (scobiforme,
+     filspånlik), kun se on hyvin pieni, pitkulainen, hilpainen j.n.e.
+ _sydän_ (nucleus, frökärna) on joko kokonansa siitinaihetta tahi
+     siitinaihetta valkuaisen kanssa.
+ _valkuainen_ (albumen, fröhvita) on siemen-sydämmen eriosa, jota ei
+     kuitenkaan kaikissa tavata, ja aineensa vuoksi on se tavallisesti
+     valkea ja milloin turpea eli lihava, milloin _rustomainen_
+     (corneum, hornartad), milloin _jauhomainen_ (farinosum,
+     mjölgrynig) j.n.e. Sijansa vuoksi siitinaihetta suhteen on se
+     joko _yltäympärinen_ (alb. periphericum, omslutande växtämnet),
+     _keskellinen_ (centrale, liggande i midten af växtämnet) tahi
+     _vierellinen_ (laterale, liggande vid sidan af växtämnet).
+     Yltäympärisessä valkuaisessa on siitinaihe _keskellinen_ ja
+     keskellisessä _yltäympärinen_; vierellisenä ollessa on
+     siitinaihetki _vierellinen_.
+ _valkuallinen_ (semen albuminosum) on se siemen eli sydän, jolla
+     on valkuaista, _valkuaton_ (exalbuminosum), jolla ei ole.
+ _siitinaine_ (embryo, växtämne), siemenen pääosa, josta uusi kasvi
+     itäessä ilmaantuu. Siinä on kolme erittäin tarkastettavaa osaa:
+     _ide, sirkus ja silmä_.
+ _ide_ (corculum, brodd), johonka kuuluu juuriaine eli _juurukka_
+     (radicula l. rostellum, rotämne) ja _sirkkaruoti_ (cauliculus
+     l. scapellus, hjertbladsstängel), jotka siemenessä yhdistettynä
+     itäessä eriävät, toinen alaspäin juuren, toinen ylös varren
+     aluksi.
+ _suuntamukainen_ (embryo orthotropus l. erectus, upprätt) on
+     siitinaine, jos on suora ja siemenen mukaan, juurukka siemenen
+     kantaa päin.
+ _vastasuuntainen l. takaperoinen_ (antitropus l. inversus, omvänd),
+     kun siitinaineen juurukka on siemenen latvaa päin.
+ _kaltto_ (heterotropus, sned), siitinaine, joka ei ole siemenen
+     mukaan.
+ _taaskääntöinen_ (amphitropus, nedböjd), kun siitinaine on
+     luokkamaisesti kaaristunut ja sen molemmat päät ovat siemenen
+     kantaa päin.
+ _sirkus_ (cotyledo, hjertblad), kasvin jo siemenessä perustettu
+     itäessä ilmaantuva sirkkalehti.
+ _sirkkalehtinen_ (planta cotyledonea, hjertbladsväxt) on se kasvi,
+     jolle itäessä ilmaantuu sirkkalehti.
+ _kaksisirkkainen_ (pl. dicotyledonea, dikotyledon), joka itää
+     kahdella vastataisella, tahi niinkuin havupuut useammalla
+     säteettäisellä sirkkalehdellä. Jälkimäisiä saattaisi myös sanoa
+     _monisirkkaisiksi_ (pl. polycotyledoneae, polykotyledoner).
+ _yksisirkkainen_ (pl. monocotyledonea, monokotyledon), se kasvi jolla
+     on vaan yksi sirkkalehti, ylen harvoin kaksi, ei vastatusten,
+     vaan perätysten.
+ _nouseva_ (cotyledo epigaea) on se sirkkalehti, joka itäessä nousee
+     maan päälle näkyviin, n.k. tavallisesti kaikkien kaksisirkkaisten.
+ _nousematon_ (c. hypogaea), sirkkalehti, joka jääpi maahan ja muutenki
+     vaillinaiseksi, n.k. tavallisesti yksisirkkaisissa.
+ _laitajuuruinen_ (embryo pleurorhizeus) on siitinaine, jonka
+     sirkukset, laidoin siemenen leveyttä myöten, ovat päälystöillänsä
+     (sisäpuolillansa) vastatusten eli _vastapuoliset_ (cotyledones
+     adcumbentes, liggande bredvid hvarandra) ja juurukka
+     _taaskääntöisenä_ (reflexa, tillbakaböjd) makaava pitkin molempain
+     sirkusten laitaa eli _laidallinen_ (radicula marginalis l.
+     lateralis, kantliggande).
+ _selkäjuuruinen_ (notorhizeus) on siitinaine, kun sirkukset
+     poikkiteloin siemenen leveyttä ovat päälitysten eli _päälittäiset_
+     (incumbentes, liggande ofvan hvarandra) ja taaskääntöinen juurukka
+     makaa toisen sirkuksen selällä eli on _selällinen_ (dorsalis,
+     ryggliggande).
+ _suoralaskuinen_ (orthoploceus), kun sirkukset ovat vastalaskuisia
+     (conduplicatae, hopvikna), ja juurukka ulkomaisen kulmassa s.o.
+     _kulmallinen_ (angularis, vinkelliggande).
+ _poikkilaskuinen_ (diplecolobeus), keskeltä taaspäin kääntyneillä
+     s.o. _taaskääntöisillä_ (medio replicatae, på midten
+     tillbakaböjda) sirkuksilla ja selällisellä juurukalla.
+ _kiertosirkkainen_ (spirilobeus), _sisään kiertyneillä_ (spirales
+     l. spiraliter involutae, spiralformigt inrullade) sirkuksilla
+     ja selällisellä juurukalla.
+ _silmä_ (gemmula, cauliculus l. plumula, stamknopp l. bålämne),
+     siitinaineen kolmas osa, josta kasvin varsi lähtee, ja jolla
+     kaksisirkkaisissa on sijansa sirkusten välissä, yksisirkkaisissa
+     sirkustupekkeen sisässä.
+ _esikkolehti_ (folium primigenum l. primordiale, första örtbladet),
+     se suoraan silmästä ilmaantuva ensimäinen kasvilehti.
+ _napa_ (hilum, fröärr l. nafvelgrop), se paikka siementä, josta se
+     kodassa on kiinni ollut. Napapuolta sanotaan siemenen _mahaksi_
+     (venter, buk) ja toista puolta _seläksi_ (dorsum, rygg),
+     välikohtia _sivuiksi_ (latera, sidor).
+ _napalappu_ (strophiolum l. caruncula, nafveltäcke), nystyrämäinen
+     tahi käsnämäinen lisäke, joka lähtevä napasuonesta tahi istukasta
+     erästen kasvien siemenissä peittää navan.
+ _siitereikä_ (micropyle l. foramen germinationis, rothål),
+     pienukainen, usein näkymätön reikä siemenen kuorikalvoissa, navan
+     päässä, jäännöksenä siitä reiästä, josta siitinneste kulki
+     siemenaiheesen.
+ _napapilkku_ (chalaza, nafvelfläck), se paikka siemenen aluskuorta,
+     josta napasuoni käypi sisään, muutamissa siemenissä kohdastaan
+     navan alla, toisissa vähän syrjässä, ja tavallisesti kiinteämpi,
+     vehreä, keltainen tahi ruskea.
+ _napaviiva_ (raphe, nafvellinie), napasuonen saattama tavallisesti
+     vieripaikkoja korkeampi viiru navan ja napapilkun välillä niissä
+     siemenissä, joissa ovat erillään. Se lähtee aina toiselta puolen
+     napaa, kun siitereikä on toisella.
+ _siemenvaippa_ (arillus, coma, desma, fröhylle), muutamissa siemenissä
+     tavattava napasuonen ulkopuolinen leveäminen siementä vasten.
+     Siemenen valmistuessa vaippa toisinaan muuttuu _tukaksi_ (coma,
+     fröhår) ja siementä sanotaan siitä _tukkaiseksi_ (semen comosum
+     l. crinitum).
+
+
+
+
+Kukkain lisäosista.
+
+
+_Lisäosat_ (partes aceessoriae, bidelar), joita ainoastaan eräissä
+kukissa tavataan.
+
+ _lisäterä_ (paracorolla, bikrona), melkein terän muotoinen
+     kukkalisäke, joka taitaa olla joko _yhdislehtinen_ (corona
+     gamophylla) tahi _erilehtinen_ (c. eleutherophylla l. polyphylla).
+     Itsekutakin erinäistä lehteä sanotaan _lisälehdeksi_ (parapetalum,
+     bikronblad).
+ _lisälehtinen_ (petala coronata, försedd med bikrona l. bikronblad) on
+     erilehtinen terä pienillä suomumaisilla lehtikalvoilla terälehtien
+     juuressa kukan sisällä.
+ _kupurasulkuinen_ (faux fornicibus clausa, pipöppningen tillsluten af
+     knölar) on yhdislehtisen terän nielu, kun siinä on paksumpia
+     kuperia kyhmyjä eli _kupuroita_ (fornices, hvälfda knölar), ja
+     _nystysulkuinen_ (faux fornicibus subulatis clausa), kun kyhmyt
+     ovat oramaisia.
+ _sulettu_ (faux clausa, sluten) ja avoin (f. pervia l. nuda) osottavat
+     yhteisesti nielussa jotain sulkua olevan tahi ei olevan.
+ _valhehede_ (parastemon, falsk ståndare), heteen kaltainen lisäke.
+ _mesinystyrä_ (glandula nectarifera, honingsglandel).
+ _mesihuokonen_ (porus nectariferus, honingspor).
+ _mesikolo_ (fovea nectarifera, honingsgrop), joka on milloin paljas,
+     milloin _suomukatteinen_ (fovea squama tecta, täckt med ett
+     fjäll).
+ _mesijuova_ (plica l. stria nectarifera, honingsfåll), pitkin terää
+     tahi kupulehteä.
+ _mesikannus_ (calcar nectariferum, honingssporre), kun joku kukkaosa
+     on venynyt pitkämäiseksi onneksi mesipiteeksi.
+
+
+
+
+Kasvien väreistä.
+
+
+ _Valkea_ (albus, hvit).
+ _valkeanhohtava_ (candidus, glänsande hvit).
+ _lumivalkea_ (niveus, snöhvit).
+ _luuvalkea_ (eburneus, elfenbenshvit), kiiltävä ja valkea kuin
+     elefantin luu, vähän kellahtava.
+ _maidonkarvainen_ (lacteus, mjölkhvit), hiukan sinehtävä.
+ _hopeankarvainen_ (argenteus, silfverhvit), kiiltävä ja vähän
+     sinettävä.
+ _vaalea l. vaalakka_ (albidus l. albicans, hvitaktig), vaalean
+     hallava, vähän harmaahtava.
+ _harmaa_ (cinereus, grå), tuhkankarvainen.
+ _mustanharmaa_ (griseus, mörkgrå).
+ _vaaleanharmaa l. vesiharmaa_ (canus l. incanus, ljusgrå),
+     tavallisesti hienokarvaisista pinnoista.
+ _vehreänhallava_ (glaucus, grågrön), harmaanvehreä.
+ _jäänkarvainen l. lyjynkarvainen_ (plumbeus, blygrå).
+ _hiirenkarvainen_ (murinus, gråbrun), ruskealle vivahtava.
+ _likaharmaa_ (sordidus, smutsgrå), vaalahtava.
+ _musta_ (niger, svart), sysimusta.
+ _nokimusta_ (ater, kolsvart l. sammetssvart), kuin sametti.
+ _mustankiuhtava_ (coracinus, korpsvart), mustanviherä kuin korpin
+     sulka.
+ _pikimusta_ (piceus, becksvart), ruskealle vivahtava.
+ _palomusta_ (sphacelatus, svartbränd), ikäänkuin poltettu.
+ _tumpura_ (brunneus, mörkbrun).
+ _ruskea_ (badius l. castaneus, kastaniebrun).
+ _mustanruskea_ (spadiceus, glänsande brun), kiiltävä.
+ _ruskeanmuseva_ (fuscus, mellanbrun), mustalle ja harmaalle vivahtava.
+ _rusettava_ (cinnamomeus, kanelbrun), punottava kuin kanelin kuori.
+ _ruosteenkarvainen_ (ferrugineus, rostbrun).
+ _maksankarvainen_ (hepaticus, lefverbrun), keltaiselle ja vehreälle
+     vivahtava.
+ _mustanrusappa_ (fuligineus l. fuliginosus, fotbrun), kuin noenkarsta.
+ _likaruskea_ (luridus, smutsbrun), kellertävä.
+ _punainen_ (ruber, röd), mansikan karvainen.
+ _ehtapunainen l. turkinpunainen_ (coccineus, puniceus l. phoeniceus,
+     skarlakansröd l. högröd).
+ _ruusunpunainen_ (roseus, rosenröd), helakan punainen.
+ _veripunainen l. veriruskea_ (sanguineus, blodröd), tummempi
+     edellistä.
+ _lihankarvainen_ (carneus, köttröd).
+ _vaaleanpunainen_ (incarnatus, blekröd).
+ _tiilenkarvainen_ (lateritius, tegelröd).
+ _ruskeanpunainen_ (miniatus, mönjeröd), vähän keltaiselle vivahtava
+     ehtapunainen.
+ _tulipunainen_ (flammeus, eldröd), vielä kellahtavampi, kun edellinen.
+ _punakellervä_ (cinnamomeus, kanelbrun, cinnoberröd), kuin kanelin
+     kuori.
+ _ruskea_ (rufus, rödbrun).
+ _tummanpunainen l. purpurainen_ (purpureus, purpurröd), sinelle
+     vivahtava.
+ _mustanpunainen_ (atropurpureus, dunkelt purpurröd).
+ _keltainen_ (luteus, gul).
+ _kullankarvainen_ (aureus, guldgul), heleän keltainen.
+ _tummankeltainen_ (citrinus, citrongul).
+ _vahankarvainen_ (cerinus, vaxgul).
+ _rikinkarvainen_ (sulphureus, svafvelgul), kuin tulikivi
+     viheränpuuhuva.
+ _vaaleankeltainen_ (flavus, ljusgul), voilakka, voinkarvainen.
+ _olenkarvainen_ (stramineus, halmgul), vähän vaaleampi edellistä.
+ _kellervä_ (fulvus, mörkt guldgul), punaiselle vivahtava.
+ _ruskeankeltainen_ (ochraceus, brungul).
+ _ruskeanhallava_ (helvolus, grått brungul).
+ _punakellervä_ (aurantiacus, pomeransgul l. orangegul).
+ _keltapunainen_ (vitellinus, rödgul), kuin munan ruskuainen.
+ _tummanruskea_ (croceus, saffransgul), kuin saframi.
+ _kulonkarvainen_ (lividus, gulblå), vivahtava keltaiselle, harmaalle
+     ja sinelle.
+ _likakeltainen_ (ochroleucus, blekt smutsgul), vaalahtava.
+ _vehreä_ (viridis, grön).
+ _ruohonpäinen_ (prasinus, gräsgrön).
+ _vehreänsinervä l. siniviherä_ (aeruginosus, blågrön).
+ _sapenkarvainen_ (olivaceus, olivgrön), viherä ja kellertävä.
+ _mustanviherä_ (atrovirens, svartgrön).
+ _sininen l. keskisininen_ (caerulaeus, blå, mellanblå).
+ _mustansininen_ (cyaneus, mörkblå).
+ _vaaleansininen_ (azureus, himmelsblå), taivaan sininen.
+ _sinipunerva l. punasinervä_ (violaceus, violett).
+ _sinikiuhtava_ (lilacinus, ljust violett), vaaleampi edellistä.
+ _sinihallava_ (caesius, blågrå), hauvinkarvainen.
+ _kahdenkarvainen_ (discolor, tvåfärgad), joka ei ole yhdenvärinen
+     molemmilta puolilta.
+ _yhdenvärinen_ (concolor, likafärgad l. enfärgad), kummaltaki puolelta
+     yhdenkarvainen eli samanvärinen.
+ _paikullinen l. kirjava_ (variegatus, fläckig l. brokig), erivärisillä
+     paikuilla, pilkuilla eli tähneillä.
+ _muuttovärinen_ (versicolor, ombytande färg), joka oikeastansa
+     kasvaessa muuttaa värinsä.
+ _lähtövärinen_ (decolorans, mistande sin färg), josta alkuperäinen
+     väri aikaa myöten lähtee.
+ _värivanteinen_ (zonatus, ringformigt tecknad), kun on vaaleampia tahi
+     tummempia erivärisiä vanteita tahi vannepuoliskoita ympäri jonkun
+     osan.
+ _sumea l. raukea_ (opacus, matt färgad).
+ _loistava l. kiiltävä_ (lucidus l. nitidus, glänsande).
+ _kiuhtava l. läikkivä_ (micans, skiftande).
+ _läpihohtava l. kuultava_ (pellucidus l. diaphanus, färgad och
+     genomskinlig), kun värilliset osat ovat läpikuultavia.
+ _lasinvärinen_ (hyalinus, saknande allt färgämne l. hvitaktigt
+     genomskinlig).
+
+
+
+
+Mausta ja hajusta.
+
+
+ _Haiseva l. pahahajuinen_ (foetidus, illa luktande).
+ _hajahtava, imanne l. maikava_ (fragrans, starkt välluktande).
+ _hapahka, kilappa l. kilpeä_ (subacidus l. acidulus, syrlig).
+ _hapan l. muikea_ (acidus, sur).
+ _huumaava, myrkeä l. tympäisevä_ (narcoticus, narkotisk, döfvande
+     l. rusgifvande, vanl. giftig).
+ _hyvähajuinen_ (suaveolens, välluktande).
+ _hyvämakuinen, makea_ (dulcis, söt).
+ _imelä l. rievä_ (subdulcis l. dulciculus, sötaktig).
+ _iskuinen l. tahmea_ (viscidus, klibbig).
+ _karkea l. karmea_ (acerbus, kärf).
+ _karvas, katkera l. kitkerä_ (amarus, bäsk).
+ _kimpura l. vinkerä_ (adstringens l. stypticus, sammandragande).
+ _kirmakka, kirpeä, tuikea l. äikeä_ (acris, bitter l. skarp).
+ _kirpaiseva, kirveltävä, polttava l. vihava_ (urens, brännande).
+ _kisumainen_ (hircinus, frän, luktande bock).
+ _kynsilaukan hajuinen l. -makuinen_ (alliaceus, lökartad till
+     lukt l. smak).
+ _lemaava, löyhkävä l. väkevähajuinen_ (graveolens, starkt, mindre
+     behagligt luktande).
+ _luteenhajuinen_ (cimicinus, vägglusluktande).
+ _läätevä, tylkeä l. tympeä_ (nauseosus, äcklig l. vämjelig).
+ _mauton, tuima l. äitelä_ (insipidus, fadd l. smaklös).
+ _maikea k. naukea_ (mitis, mild).
+ _pahamakuinen_ (ingrati saporis, illa smakande).
+ _ruusuhajuinen_ (rosaceus, luktande af törnrosor).
+ _ryytimäinen, ryytihajuinen, ryytimakuinen_ (aromaticus,
+     aromatisk l. kryddaktig, -lik).
+ _suolainen_ (salsus, saltaktig).
+ _vetinen_ (aquosus, vattenaktig).
+
+Samoin kuin edellisissä sanoissa on hajua ja makua _kynsilaukkaan,
+luteisiin, ruusuun_ j.n.e. verrattu, verrataan niitä välistä muihinki
+tuttuihin aineisiin, _aneksiin, kamferttiin, kaneliin, minttuun,
+myskiin, pihkaan_ j.n.e.
+
+
+
+
+Kasvipaikoista.
+
+
+ _Tunturit_ (alpes, fjäll), joiden kukkuloilta lumi ei koskaan sula.
+ _tunturialusta, tunturiliepeet_ (regio subsylvatica, skogsregionen),
+     metsäinen piirikunta tunturien juurilla, joissa alempana kasvaa
+     petäjiä, ylempänä koivuja.
+ _tunturilaide_ (r. subalpina, subalpina regionen), vähitellen
+     kohoava tunturin sivu, jossa parhaasta päästä kasvaa pensaita,
+     vaivaiskoivuja, sammalia j.n.e.
+ _tunturiselkä l. -selkämä l. -laki_ (r. alpina, fjällregionen), puut
+     ja pensaat katoavat, maa kovenee. Tässä piirissä tavataan enin
+     tunturikasveja.
+ _vilupiiri_ (r. frigida, köldregionen), kivinen, kallioinen ja
+     rotkoinen tunturin niska vähän ylempänä edellistä piiriä,
+     harvinaisilla kasveilla.
+ _lumipiiri_ (r. nivalis, snöregionen), ikuisten lumien laiteet.
+ _vuoret l. vaarat_ (montes, bergshöjder).
+ _maanselät, selänteet, harjut, särkät_ (juga saxosa et arenosa,
+     landtåsar).
+ _mäet, töykämät_ (colles, mindre bergshöjder).
+ _kalliot_ (rupes, rupestria, klippor).
+ _vierikot, kalliovierut, jyrkylät_ (praerupta, branter).
+ _mäkirinteet, ahteet_ (declivia, bergsluttningar, backar).
+ _louhikot, kivikot, röyteiköt_ (lapidosa, petrosa, saxosa,
+     stenhölster).
+ _hietamaa, santamaa, hiesukko_ (arenosa, sandjord).
+ _somerikko_ (glareosa, grus).
+ _sorahiekka_ (sabulosa, gröfre sand).
+ _rauniot_ (ruderata, ruiner).
+ _kiviseinät_ (muri, murar).
+ _seinävieret_ (parietes, plank och väggar).
+ _katot, turvekatot, olkikatot_ (tecta, tak).
+ _kylätienoot, asuntopaikat_ (vici, pagi, hyar).
+ _pihat_ (aulae l. arae, gårdar).
+ _ryytimaat_ (oleracea, kryddgårdar).
+ _omenatarhat_ (pometa l. pomaria, äplegårdar).
+ _puutarhat, puistot_ (horti, trädgårdar).
+ _lehtokujat_ (ambulacra, gångar, alléer).
+ _tiet, tievarret_ (viae, vägar).
+ _viljelömaat_ (culta, odlade ställen).
+ _pellot_ (arva, åkrar).
+ _toukopellot_ (segetes, sädesåkrar).
+ _kesantopellot_ (vervacta, trädesåkrar). _pientaret_ (versurae,
+åkerrenar).
+ _aitovieret_ (sepes, gärden, häckar).
+ _vainiot_ (agri, åkerfält).
+ _niitut, nurmet_ (prata, ängar).
+ _laitumet, karjamaat_ (pascua, betesmarker).
+ _ahot, lakeat, aukot, kankaat_ (campi, planities, fält och slätter).
+ _kanarvikot_ (ericeta, ljunghedar).
+ _laksot, lantot, notkot_ (valles, dalar).
+ _arot, alhot, alangot_ (loca humilia, dälder).
+ _lehdot_ (luci, lundar).
+ _kalve-, siimes-, pimento- l. varjopaikat_ (umbrosa, skugga).
+ _päiväpaikat, päivänalaiset paikat_ (aprica, solsken).
+ _viidat, vesakot, pensaistot, vehmastot_ (virgulta, fruticeta,
+     dumeta, busksnår, ungskogar).
+ _metsät_ (silvae, skogar); _korvet_ (deserta, öknar).
+ _salot, pimentolehdot, lehtimetsät_ (nemora, mörka löfskogar).
+ _aarniometsät_ (silvae vetustae, urskogar).
+ _havumetsät, havikot, kuusistot, petäjistöt, hongistot_ (pineta,
+     barrskogar).
+ _pajustot_ (saliceta, videsnår, videskogar).
+ _haavistot_ (populeta, aspskogar).
+ _vetiset, kosteat paikat_ (uda, fuktiga ställen).
+ _vesiperät_ (uliginosa, sanka ställen).
+ _luhdat, tulvapaikat_ (inundata, öfversvämmande ställen).
+ _nevat, levät, jängät_ (paludes, kärr).
+ _suot, rämeet, rämeiköt_ (paludes caespitosae, tufviga kärr).
+ _lamperot, lammikot, kuljut, liejut, liemot_ (stagna, piscinae,
+     träsk, vattenpölar).
+ _lähteet, hetteet, vesihuovut_ (fontes, källor).
+ _purot, ojat, nivat_ (rivuli, bäckar, diken).
+ _joet, virrat_ (fluvii, floder).
+ _jokivarret, jokirannat_ (ripae, flodstränder).
+ _vesi_ (aqua, vatten).
+ _järvet_ (lacus, sjöar).
+ _meri_ (mare, haf).
+ _merenrannat_ (littora marina, hafsstränder).
+
+
+
+
+Pituuden ja leveyden mitoista.
+
+
+ _linjan pituinen tahi levyinen_ (lineam longus vel latus, af en linies
+     längd eller bredd), 1/12 tuumaa.
+ _kynnen pituinen l. levyinen_ (unguicularis, semuncialis, half tum
+     lång eller bred), 1/2 tuumaa.
+ _tuuman pituinen l. levyinen_ (uncialis l. pollicaris, tumslång
+     l. bred), 1 tuuma.
+ _sormen pituinen_ (digitalis, fingerslång), 3 tuumaa.
+ _syrjäkämmenen levyinen_ (palmaris, af handens bredd), 3 tuumaa.
+ _vaaksan pituinen l. levyinen_ (spithameus, qvarterslång), 7 tuumaa.
+ _isovaaksan pituinen_ (dodrantalis, spannlång), 9 tuumaa.
+ _jalan pituinen_ (pedalis, fotslång), 12 tuumaa.
+ _kolmikorttelinen_ (cubitalis, halfannan fot), 18 tuumaa.
+ _kyynäräinen_ (ulnaris l. brachialis, alnslång), 24 tuumaa.
+ _miehen l. sylenpituinen_ (orgyalis, manslång, samnslång), 3 kyynärää.
+
+
+
+
+Jälkisananen.
+
+
+Työni päätteeksi sopinee mainita, että olen parhaan taitoni jälkeen jo
+vuosikauden ja runsaamminki näitä edellisiä kasviopin sanoja puolet
+aikojani miettinyt ja työssäni seurannut _Haynen, Bischoffin,
+Hartmanin_ ja varsinkin _Arrhenius'en_ kasvien tutkioille hyvin tuttuja
+sama-aineisia laitoksia muilla kielillä. Missä minullen ei ole
+onnistunut oikein somia ja sopivia suomenkielisiä sanoja saada, siinä
+jälkeisilleni onnistukoon paremmin. Olkoonki miten tahansa, toki toivon
+tällä työllä näyttäneeni suomenkielen yltävän ja taipuvan tämmöisiinkin
+yrityksiin, Ruotsalaiset vanhan tapansa mukaan arvelkoot sen varoista
+ja sopivaisuudesta, mitä milloinki tahtovat. Eipähän ole ollut pakko
+semmoisia muukalaisia sanoja, kun esimerkiksi _androgynus, cellula,
+dicotyledo, concavus, cryptogamus, ovalis, phyllodium, pistilla,
+stipula_ y.m. sillä tavoin suomenkieleen sekoittaa, kun Ruotsalaiset
+niistä -- epäilemättä kyllä suureksi hyödyksi ja kielensä kunniaksi --
+ovat saaneet sanansa _androgynsk, cellul, dikotyledon, konkav,
+kryptogam, oval, phyllodium, pistill, stipel_, jotka arvattavasti ynnä
+monen muun kumppalinsa kanssa ovat Ruotsin kansan hyvin helpot ymmärtää
+ja muistossa pitää. Eikä myös ole tarvinnut, niinkuin ruotsinkielessä
+usein tapahtuu, 3:lla, 4:llä tahi useammalla sanalla sanoa, mitä
+latinan tahi kreikan kielessä sanotaan yhdellä.
+
+Yhdyssanain edellisistä puolista vastaavat eri kielissä toisillensa:
+
+    suom.  yksi- kaksi- kolmi- neli-   viisi-   kuusi- seitsen-
+    latin. uni-  bi-    tri-   quadri- quinque- sex-   septem-
+    kreik. mono- di-    tri-   tetra-  penta-   hexa-  hepta-
+    ruots. en-   två-   tre-   fyr-    fem-     sex-   sju-.
+
+Semmoisten sanain jälkimäinen puoli nimittää itsen asian eli aineen
+ja edellinen puoli vaan sanoo, jos niitä on yksi eli useampi.
+Enimmät sanat sitä laatua, joiden alkuna on yksi-, uni-, mono-, en-,
+tavataan siis myöskin aluilla kaksi-, bi-, di-, två- j.n.e.
+Se on sitä varten muistutettava, että jos semmoisia yhdyssanoja ei aina
+löydettäisi yhdellä, niitä silloin taidetaan jolla kulla toisella
+alulla etsiä.
+
+Tarkoitukseni on ollut saada vaan ne sanat suomennetuksi, joita
+tavallisesti käytetään ilmisiittiöisten kasvien muodon selittämiseksi,
+taikka niiden toinen toisestaan erottamiseksi; niillä, jotka erittäin
+kuuluvat salasiittiöisiin kasveihin taikka kasvielon eli sisällisen
+laadun ja luonnon esittämiseksi, en ole tahtonut tätä työtäni
+laajentaa.
+
+Se joka lähtee virheitä ja puuttuvaisuuksia urkkimaan, löytää niitä
+kyllinki tässä kokeessani, mutta olkoonpa niitä miten hyvänsä,
+tavattakoon siinä jos paljonki sopimattomia sanoja ja muuta
+moittimista, niin kuitenki, kaikitenki
+
+    Ladun laitoin, latvat taitoin,
+    Oksat karsein, tien osotin,
+    Somemmille suorijoille,
+    Tarkemmille taitajille,
+    Nuorisossa nousevassa,
+    Polvessa ylenevessä.
+
+Helsingistä 1 joulukuuta 1858.
+
+E. L.
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Kasvikon oppisanoja, by Elias Lönnrot
+
+*** END OF THIS PROJECT GUTENBERG EBOOK KASVIKON OPPISANOJA ***
+
+***** This file should be named 54457-8.txt or 54457-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/4/4/5/54457/
+
+Produced by Jari Koivisto
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
